@@ -6,13 +6,13 @@ Welcome to the SP500 Analyzer repository! This project aims to create a comprehe
 
 Project Components
 
-1. Data Analysis
+1. Data Analysis (QuantumPhases)
 The data analyst's role includes:
 
 Data Gathering: Collecting pertinent information related to S&P 500 sectors, with a keen focus on finance companies.
 Data Analysis: Employing analytical techniques to derive meaningful insights from the collected data.
 
-2. Web Development
+2. Web Development (FPcodes)
 The web developer's responsibilities encompass:
 
 Website Design: Crafting an intuitive and user-friendly design for the website.
