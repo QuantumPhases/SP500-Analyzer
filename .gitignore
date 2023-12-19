@@ -1,3 +1,4 @@
+# Files Ignored by Git & Github 
 venv/
 env/
 .DS_Store
