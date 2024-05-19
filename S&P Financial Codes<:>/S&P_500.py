@@ -211,7 +211,7 @@ Updated_Sp500_columns.insert(0, 'id', range(1, len(Updated_Sp500_columns) + 1))
 # Downloading Realtime Data & Function Creation (Date, Open, Close  & Weekly Volume) 
 
 # %%
-def download_stock_data(ticker, period="1y", interval="1d"):
+def download_stock_data(ticker, period="3y", interval="1d"):
     try:
         stock_data = yf.download(ticker, period=period, interval=interval)
         return stock_data
