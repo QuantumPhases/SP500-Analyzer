@@ -1,504 +1,504 @@
 id,Ticker,Company,Sector,City,State,Date,Weekly_Open,Weekly_Close,Weekly_Percentage,Weekly_Volume,Market_Cap
-1,MSFT,Microsoft,Information Technology,Redmond,Washington,2024-04-12,426,426,-0.04,12496900,$3.17 T
-2,AAPL,Apple Inc.,Information Technology,Cupertino,California,2024-04-12,168,169,0.57,42373800,$2.62 T
-3,NVDA,Nvidia,Information Technology,Santa Clara,California,2024-04-12,874,853,-2.39,50170000,$2.13 T
-4,GOOG,Alphabet Inc. (Class C),Communication Services,Mountain View,California,2024-04-12,157,158,0.5,21521500,$1.96 T
-5,GOOGL,Alphabet Inc. (Class A),Communication Services,Mountain View,California,2024-04-12,156,156,0.33,31079500,$1.95 T
-6,AMZN,Amazon,Consumer Discretionary,Seattle,Washington,2024-04-12,187,185,-0.84,36520100,$1.93 T
-7,META,Meta Platforms,Communication Services,Menlo Park,California,2024-04-12,522,516,-1.02,10863800,$1.32 T
-8,BRK-B,Berkshire Hathaway,Financials,Omaha,Nebraska,2024-04-12,416,414,-0.45,2233100,$896.65 B
-9,LLY,Eli Lilly and Company,Health Care,Indianapolis,Indiana,2024-04-12,777,757,-2.62,2464100,$719.96 B
-10,AVGO,Broadcom Inc.,Information Technology,Palo Alto,California,2024-04-12,1357,1334,-1.72,1798600,$618.24 B
-11,V,Visa Inc.,Financials,San Francisco,California,2024-04-12,277,276,-0.33,7313900,$568.40 B
-12,JPM,JPMorgan Chase,Financials,New York City,New York,2024-04-12,198,197,-0.46,7351500,$566.23 B
-13,TSLA,"Tesla, Inc.",Consumer Discretionary,Austin,Texas,2024-04-12,172,176,2.3,102951700,$563.33 B
-14,WMT,Walmart,Consumer Staples,Bentonville,Arkansas,2024-04-12,59,59,-0.13,10013500,$481.79 B
-15,XOM,ExxonMobil,Energy,Irving,Texas,2024-04-12,121,121,0.15,14132300,$480.82 B
-16,MA,Mastercard,Financials,Harrison,New York,2024-04-12,477,472,-1.22,2217200,$440.47 B
-17,UNH,UnitedHealth Group,Health Care,Minnetonka,Minnesota,2024-04-12,454,459,1.2,3521200,$423.83 B
-18,PG,Procter & Gamble,Consumer Staples,Cincinnati,Ohio,2024-04-12,156,156,0.25,4608100,$368.62 B
-19,JNJ,Johnson & Johnson,Health Care,New Brunswick,New Jersey,2024-04-12,151,152,0.49,6135300,$366.99 B
-20,HD,Home Depot (The),Consumer Discretionary,Atlanta,Georgia,2024-04-12,363,361,-0.61,3022600,$358.18 B
-21,ORCL,Oracle Corporation,Information Technology,Austin,Texas,2024-04-12,124,123,-0.9,5564100,$338.70 B
-22,MRK,Merck & Co.,Health Care,Kenilworth,New Jersey,2024-04-12,126,126,0.1,4696600,$320.91 B
-23,COST,Costco,Consumer Staples,Issaquah,Washington,2024-04-12,716,718,0.33,1386400,$318.70 B
-24,ABBV,AbbVie,Health Care,North Chicago,Illinois,2024-04-12,169,170,0.24,5933200,$301.26 B
-25,CVX,Chevron Corporation,Energy,San Ramon,California,2024-04-12,161,162,0.09,6576200,$300.88 B
-26,BAC,Bank of America,Financials,Charlotte,North Carolina,2024-04-12,37,37,0.59,30967300,$297.71 B
-27,CRM,Salesforce,Information Technology,San Francisco,California,2024-04-12,303,302,-0.31,2997700,$293.30 B
-28,AMD,Advanced Micro Devices,Information Technology,Santa Clara,California,2024-04-12,170,170,0.33,42886100,$276.00 B
-29,NFLX,Netflix,Communication Services,Los Gatos,California,2024-04-12,631,618,-2.18,2143600,$267.53 B
-30,KO,Coca-Cola Company (The),Consumer Staples,Atlanta,Georgia,2024-04-12,59,59,0.4,10779100,$257.46 B
-31,PEP,PepsiCo,Consumer Staples,Purchase,New York,2024-04-12,170,170,0.22,3773900,$234.51 B
-32,TMO,Thermo Fisher Scientific,Health Care,Waltham,Massachusetts,2024-04-12,583,589,0.93,1026300,$224.91 B
-33,ADBE,Adobe Inc.,Information Technology,San Jose,California,2024-04-12,486,492,1.35,2547500,$220.66 B
-34,LIN,Linde plc,Materials,Guildford,United Kingdom,2024-04-12,460,457,-0.59,1472300,$220.53 B
-35,DIS,Walt Disney,Communication Services,Burbank,California,2024-04-12,117,117,0.5,7451100,$216.39 B
-36,ACN,Accenture,Information Technology,Dublin,Ireland,2024-04-12,333,334,0.24,2416600,$210.28 B
-37,WFC,Wells Fargo,Financials,San Francisco,California,2024-04-12,57,57,-0.21,10643800,$203.86 B
-38,CSCO,Cisco,Information Technology,San Jose,California,2024-04-12,48,50,2.4,26686600,$202.50 B
-39,QCOM,Qualcomm,Information Technology,San Diego,California,2024-04-12,175,175,0.17,5028500,$195.94 B
-40,ABT,Abbott,Health Care,North Chicago,Illinois,2024-04-12,110,112,1.67,4235700,$195.10 B
-41,MCD,McDonald's,Consumer Discretionary,Chicago,Illinois,2024-04-12,266,269,1.21,3934900,$194.27 B
-42,TMUS,T-Mobile US,Communication Services,Bellevue,Washington,2024-04-12,161,161,-0.06,3359000,$191.09 B
-43,CAT,Caterpillar Inc.,Industrials,Irving,Texas,2024-04-12,375,371,-0.83,2042700,$185.72 B
-44,DHR,Danaher Corporation,Health Care,Washington,D.C.,2024-04-12,246,249,1.31,1602100,$184.99 B
-45,INTU,Intuit,Information Technology,Mountain View,California,2024-04-12,650,644,-0.91,847600,$180.33 B
-46,AMAT,Applied Materials,Information Technology,Santa Clara,California,2024-04-12,211,210,-0.44,3659200,$174.83 B
-47,IBM,IBM,Information Technology,Armonk,New York,2024-04-12,190,189,-0.65,2794200,$173.55 B
-48,VZ,Verizon,Communication Services,New York City,New York,2024-04-12,41,40,-0.54,17224100,$171.94 B
-49,GE,GE Aerospace,Industrials,Evendale,Ohio,2024-04-12,156,154,-1.05,8807300,$168.90 B
-50,INTC,Intel,Information Technology,Santa Clara,California,2024-04-12,38,38,0.74,78671700,$163.17 B
-51,NOW,ServiceNow,Information Technology,Santa Clara,California,2024-04-12,793,782,-1.39,790200,$160.36 B
-52,BX,Blackstone,Financials,New York City,New York,2024-04-12,130,132,1.54,3258400,$159.97 B
-53,CMCSA,Comcast,Communication Services,Philadelphia,Pennsylvania,2024-04-12,40,40,-0.32,32645300,$159.47 B
-54,AXP,American Express,Financials,New York City,New York,2024-04-12,222,219,-1.41,3503000,$158.29 B
-55,TXN,Texas Instruments,Information Technology,Dallas,Texas,2024-04-12,171,173,1.44,4830700,$157.86 B
-56,UBER,Uber,Industrials,San Francisco,California,2024-04-12,74,75,0.49,13756300,$156.41 B
-57,COP,ConocoPhillips,Energy,Houston,Texas,2024-04-12,132,132,-0.41,3756000,$154.88 B
-58,MS,Morgan Stanley,Financials,New York City,New York,2024-04-12,93,94,0.5,4951600,$153.03 B
-59,PFE,Pfizer,Health Care,New York City,New York,2024-04-12,26,26,0.04,45127800,$151.64 B
-60,UNP,Union Pacific Corporation,Industrials,Omaha,Nebraska,2024-04-12,241,240,-0.1,1736900,$146.91 B
-61,AMGN,Amgen,Health Care,Thousand Oaks,California,2024-04-12,270,270,0.06,1792600,$144.89 B
-62,PM,Philip Morris International,Consumer Staples,New York City,New York,2024-04-12,90,91,0.63,5068200,$141.38 B
-63,LOW,Lowe's,Consumer Discretionary,Mooresville,North Carolina,2024-04-12,243,244,0.25,2126100,$139.84 B
-64,SPGI,S&P Global,Financials,New York City,New York,2024-04-12,437,435,-0.55,739400,$139.31 B
-65,ISRG,Intuitive Surgical,Health Care,Sunnyvale,California,2024-04-12,389,390,0.26,1120400,$138.58 B
-66,NKE,"Nike, Inc.",Consumer Discretionary,Washington County,Oregon,2024-04-12,90,91,1.11,7191900,$137.88 B
-67,MU,Micron Technology,Information Technology,Boise,Idaho,2024-04-12,124,122,-1.81,19212900,$135.80 B
-68,RTX,RTX Corporation,Industrials,Waltham,Massachusetts,2024-04-12,101,101,0.52,9652900,$135.09 B
-69,NEE,NextEra Energy,Utilities,Juno Beach,Florida,2024-04-12,65,65,0.35,9188000,$134.19 B
-70,SYK,Stryker Corporation,Health Care,Kalamazoo,Michigan,2024-04-12,351,350,-0.06,946500,$133.51 B
-71,GS,Goldman Sachs,Financials,New York City,New York,2024-04-12,411,410,-0.19,1247200,$133.29 B
-72,SCHW,Charles Schwab Corporation,Financials,Westlake,Texas,2024-04-12,72,72,-0.36,5024000,$132.05 B
-73,HON,Honeywell,Industrials,Charlotte,North Carolina,2024-04-12,198,198,0.03,2042000,$129.20 B
-74,UPS,United Parcel Service,Industrials,Sandy Springs,Georgia,2024-04-12,149,150,0.7,2664300,$128.46 B
-75,LRCX,Lam Research,Information Technology,Fremont,California,2024-04-12,980,973,-0.71,520700,$127.61 B
-76,ETN,Eaton Corporation,Industrials,Dublin,Ireland,2024-04-12,324,313,-3.41,4069100,$125.51 B
-77,BKNG,Booking Holdings,Consumer Discretionary,Norwalk,Connecticut,2024-04-12,3610,3581,-0.79,158000,$122.38 B
-78,T,AT&T,Communication Services,Dallas,Texas,2024-04-12,17,16,-0.59,32785000,$121.23 B
-79,PGR,Progressive Corporation,Financials,Mayfield Village,Ohio,2024-04-12,210,204,-2.73,2662100,$119.96 B
-80,ELV,Elevance Health,Health Care,Indianapolis,Indiana,2024-04-12,509,514,0.9,940600,$119.66 B
-81,BLK,BlackRock,Financials,New York City,New York,2024-04-12,806,803,-0.29,802100,$119.59 B
-82,C,Citigroup,Financials,New York City,New York,2024-04-12,61,61,-0.15,10301200,$118.10 B
-83,PLD,Prologis,Real Estate,San Francisco,California,2024-04-12,126,126,-0.09,2965800,$116.80 B
-84,DE,John Deere,Industrials,Moline,Illinois,2024-04-12,413,411,-0.48,1114500,$114.54 B
-85,MDT,Medtronic,Health Care,Dublin,Ireland,2024-04-12,83,83,0.5,5679600,$111.27 B
-86,TJX,TJX Companies,Consumer Discretionary,Framingham,Massachusetts,2024-04-12,96,97,0.12,7992300,$110.01 B
-87,BA,Boeing,Industrials,Arlington,Virginia,2024-04-12,181,178,-1.87,11427800,$109.22 B
-88,LMT,Lockheed Martin,Industrials,Bethesda,Maryland,2024-04-12,448,447,-0.25,842800,$107.64 B
-89,BMY,Bristol Myers Squibb,Health Care,New York City,New York,2024-04-12,51,51,0.92,9487300,$104.58 B
-90,VRTX,Vertex Pharmaceuticals,Health Care,Cambridge,Massachusetts,2024-04-12,406,404,-0.37,726700,$104.54 B
-91,ABNB,Airbnb,Consumer Discretionary,San Francisco,California,2024-04-12,161,162,0.69,2290200,$103.76 B
-92,REGN,Regeneron,Health Care,Tarrytown,New York,2024-04-12,941,943,0.27,305700,$103.60 B
-93,ADP,Automatic Data Processing,Industrials,Roseland,New Jersey,2024-04-12,248,250,0.69,1158700,$102.70 B
-94,CI,Cigna,Health Care,Bloomfield,Connecticut,2024-04-12,359,357,-0.55,1129200,$101.40 B
-95,ADI,Analog Devices,Information Technology,Wilmington,Massachusetts,2024-04-12,198,204,2.83,4598000,$101.22 B
-96,BSX,Boston Scientific,Health Care,Marlborough,Massachusetts,2024-04-12,68,68,-0.41,4917400,$100.92 B
-97,MMC,Marsh McLennan,Financials,New York City,New York,2024-04-12,204,204,-0.31,1382300,$100.84 B
-98,CB,Chubb Limited,Financials,Zurich,Switzerland,2024-04-12,253,248,-2.09,1425000,$100.70 B
-99,SBUX,Starbucks,Consumer Discretionary,Seattle,Washington,2024-04-12,87,87,-0.07,6240700,$98.65 B
-100,KLAC,KLA Corporation,Information Technology,Milpitas,California,2024-04-12,700,696,-0.45,708800,$94.24 B
-101,CVS,CVS Health,Health Care,Woonsocket,Rhode Island,2024-04-12,74,73,-1.85,5933600,$92.47 B
-102,ANET,Arista Networks,Information Technology,Santa Clara,California,2024-04-12,299,294,-1.75,1310900,$92.15 B
-103,FI,Fiserv,Financials,Brookfield,Wisconsin,2024-04-12,158,155,-1.8,1889100,$91.48 B
-104,MDLZ,Mondelez International,Consumer Staples,Chicago,Illinois,2024-04-12,67,67,-0.1,8120000,$91.28 B
-105,PANW,Palo Alto Networks,Information Technology,Santa Clara,California,2024-04-12,270,279,3.01,5593300,$90.19 B
-106,AMT,American Tower,Real Estate,Boston,Massachusetts,2024-04-12,189,192,1.82,1962900,$89.92 B
-107,GILD,Gilead Sciences,Health Care,Foster City,California,2024-04-12,69,69,1.13,5928100,$87.21 B
-108,HCA,HCA Healthcare,Health Care,Nashville,Tennessee,2024-04-12,329,328,-0.03,667200,$86.99 B
-109,SNPS,Synopsys,Information Technology,Sunnyvale,California,2024-04-12,582,568,-2.32,1038400,$86.80 B
-110,SHW,Sherwin-Williams,Materials,Cleveland,Ohio,2024-04-12,336,334,-0.62,789900,$85.01 B
-111,CDNS,Cadence Design Systems,Information Technology,San Jose,California,2024-04-12,312,311,-0.43,1192700,$84.89 B
-112,WM,Waste Management,Industrials,Houston,Texas,2024-04-12,207,206,-0.25,1782200,$82.86 B
-113,CMG,Chipotle Mexican Grill,Consumer Discretionary,Newport Beach,California,2024-04-12,2959,2926,-1.08,222600,$80.26 B
-114,EOG,EOG Resources,Energy,Houston,Texas,2024-04-12,136,137,0.35,2807400,$79.50 B
-115,GD,General Dynamics,Industrials,Falls Church,Virginia,2024-04-12,292,288,-1.09,1008100,$79.25 B
-116,TGT,Target Corporation,Consumer Staples,Minneapolis,Minnesota,2024-04-12,170,171,0.96,1846600,$79.24 B
-117,ITW,Illinois Tool Works,Industrials,Glenview,Illinois,2024-04-12,262,262,0.02,917200,$78.44 B
-118,SLB,Schlumberger,Energy,Houston,Texas,2024-04-12,54,54,-0.61,6685700,$77.43 B
-119,ICE,Intercontinental Exchange,Financials,Atlanta,Georgia,2024-04-12,137,135,-1.72,2140000,$77.34 B
-120,SO,Southern Company,Utilities,Atlanta,Georgia,2024-04-12,70,70,0.33,4811600,$77.02 B
-121,ZTS,Zoetis,Health Care,Parsippany,New Jersey,2024-04-12,165,167,0.77,1829500,$76.53 B
-122,MPC,Marathon Petroleum,Energy,Findlay,Ohio,2024-04-12,216,212,-2.24,3052300,$76.43 B
-123,EQIX,Equinix,Real Estate,Redwood City,California,2024-04-12,794,801,0.91,578500,$75.81 B
-124,CME,CME Group,Financials,Chicago,Illinois,2024-04-12,213,209,-1.87,1634100,$75.53 B
-125,DUK,Duke Energy,Utilities,Charlotte,North Carolina,2024-04-12,96,97,0.64,2460300,$75.08 B
-126,FCX,Freeport-McMoRan,Materials,Phoenix,Arizona,2024-04-12,51,51,-0.29,17624600,$73.59 B
-127,MAR,Marriott International,Consumer Discretionary,Bethesda,Maryland,2024-04-12,255,254,-0.2,1152800,$73.49 B
-128,MCO,Moody's Corporation,Financials,New York City,New York,2024-04-12,401,397,-0.79,398800,$72.64 B
-129,MO,Altria,Consumer Staples,Richmond,Virginia,2024-04-12,42,42,0.26,7685900,$72.33 B
-130,PH,Parker Hannifin,Industrials,Cleveland,Ohio,2024-04-12,568,561,-1.17,488100,$72.08 B
-131,CL,Colgate-Palmolive,Consumer Staples,New York City,New York,2024-04-12,88,87,-0.7,3176300,$72.05 B
-132,PYPL,PayPal,Financials,San Jose,California,2024-04-12,66,67,0.07,8446300,$71.81 B
-133,BDX,Becton Dickinson,Health Care,Franklin Lakes,New Jersey,2024-04-12,242,245,1.29,945000,$71.02 B
-134,PSX,Phillips 66,Energy,Houston,Texas,2024-04-12,168,165,-2.04,2358100,$70.77 B
-135,CSX,CSX,Industrials,Jacksonville,Florida,2024-04-12,36,35,-0.14,12472900,$70.38 B
-136,MCK,McKesson,Health Care,Irving,Texas,2024-04-12,532,527,-1.05,572300,$69.29 B
-137,APH,Amphenol,Information Technology,Wallingford,Connecticut,2024-04-12,117,114,-1.73,4070100,$68.97 B
-138,CTAS,Cintas,Industrials,Mason,Ohio,2024-04-12,677,677,0.02,269100,$68.76 B
-139,USB,U.S. Bank,Financials,Minneapolis,Minnesota,2024-04-12,43,43,0.27,5701800,$68.47 B
-140,TT,Trane Technologies,Industrials,Dublin,Ireland,2024-04-12,305,301,-1.46,911300,$68.40 B
-141,FDX,FedEx,Industrials,Memphis,Tennessee,2024-04-12,275,276,0.49,1223800,$68.01 B
-142,TDG,TransDigm Group,Industrials,Cleveland,Ohio,2024-04-12,1234,1215,-1.49,130000,$67.61 B
-143,NOC,Northrop Grumman,Industrials,West Falls Church,Virginia,2024-04-12,452,454,0.4,855400,$67.35 B
-144,EMR,Emerson Electric,Industrials,Ferguson,Missouri,2024-04-12,115,114,-0.65,1877500,$65.32 B
-145,ORLY,O'Reilly Auto Parts,Consumer Discretionary,Springfield,Missouri,2024-04-12,1113,1095,-1.62,290100,$64.68 B
-146,NXPI,NXP Semiconductors,Information Technology,Eindhoven,Netherlands,2024-04-12,247,251,1.87,1706200,$64.58 B
-147,ECL,Ecolab,Materials,Saint Paul,Minnesota,2024-04-12,227,225,-0.74,1168200,$64.56 B
-148,PNC,PNC Financial Services,Financials,Pittsburgh,Pennsylvania,2024-04-12,161,161,0.09,1306800,$64.21 B
-149,PXD,Pioneer Natural Resources,Energy,Irving,Texas,2024-04-12,271,272,0.22,1240600,$63.61 B
-150,AON,Aon,Financials,London,UK,2024-04-12,320,319,-0.47,716700,$63.34 B
-151,PCAR,Paccar,Industrials,Bellevue,Washington,2024-04-12,122,119,-2.82,2460900,$62.45 B
-152,OXY,Occidental Petroleum,Energy,Houston,Texas,2024-04-12,69,68,-0.65,4828900,$60.77 B
-153,RSG,Republic Services,Industrials,Phoenix,Arizona,2024-04-12,188,188,-0.09,1175000,$59.40 B
-154,CEG,Constellation Energy,Utilities,Baltimore,Maryland,2024-04-12,192,188,-2.34,1958600,$59.27 B
-155,MSI,Motorola Solutions,Information Technology,Chicago,Illinois,2024-04-12,352,352,0.14,404300,$58.81 B
-156,MNST,Monster Beverage,Consumer Staples,Corona,California,2024-04-12,55,55,-0.29,3868700,$58.39 B
-157,ROP,Roper Technologies,Information Technology,Sarasota,Florida,2024-04-12,544,543,-0.17,315700,$58.16 B
-158,VLO,Valero Energy,Energy,San Antonio,Texas,2024-04-12,182,176,-3.15,3502100,$58.07 B
-159,NSC,Norfolk Southern Railway,Industrials,Atlanta,Georgia,2024-04-12,252,253,0.22,1296100,$57.24 B
-160,SPG,Simon Property Group,Real Estate,Indianapolis,Indiana,2024-04-12,150,150,-0.21,1008000,$56.26 B
-161,EW,Edwards Lifesciences,Health Care,Irvine,California,2024-04-12,92,93,0.77,2633600,$56.01 B
-162,COF,Capital One,Financials,Tysons Corner,Virginia,2024-04-12,144,143,-0.42,1354700,$54.59 B
-163,CPRT,Copart,Industrials,Dallas,Texas,2024-04-12,56,56,0.25,3374500,$54.51 B
-164,DXCM,Dexcom,Health Care,San Diego,California,2024-04-12,140,140,-0.23,2777000,$54.15 B
-165,F,Ford Motor Company,Consumer Discretionary,Dearborn,Michigan,2024-04-12,13,13,0.52,35497900,$53.80 B
-166,AJG,Arthur J. Gallagher & Co.,Financials,Rolling Meadows,Illinois,2024-04-12,244,244,-0.29,803000,$53.29 B
-167,APD,Air Products and Chemicals,Materials,Allentown,Pennsylvania,2024-04-12,238,239,0.33,890800,$53.28 B
-168,EL,Estée Lauder Companies (The),Consumer Staples,New York City,New York,2024-04-12,146,148,1.57,1349100,$53.25 B
-169,ADSK,Autodesk,Information Technology,San Francisco,California,2024-04-12,246,247,0.43,840600,$53.04 B
-170,SMCI,Supermicro,Information Technology,San Jose,California,2024-04-12,925,904,-2.25,4021200,$52.94 B
-171,HLT,Hilton Worldwide,Consumer Discretionary,Tysons Corner,Virginia,2024-04-12,212,209,-1.08,935900,$52.93 B
-172,MET,MetLife,Financials,New York City,New York,2024-04-12,74,72,-1.59,2373300,$52.69 B
-173,AZO,AutoZone,Consumer Discretionary,Memphis,Tennessee,2024-04-12,3078,3043,-1.12,225900,$52.66 B
-174,DHI,DR Horton,Consumer Discretionary,Arlington,Texas,2024-04-12,158,158,-0.04,1755700,$52.55 B
-175,WELL,Welltower,Real Estate,Toledo,Ohio,2024-04-12,91,92,0.24,2019000,$52.34 B
-176,CARR,Carrier Global,Industrials,Palm Beach Gardens,Florida,2024-04-12,58,58,-0.05,2954400,$52.30 B
-177,FTNT,Fortinet,Information Technology,Sunnyvale,California,2024-04-12,69,68,-1.33,2799300,$52.05 B
-178,TFC,Truist,Financials,Charlotte,North Carolina,2024-04-12,39,38,-0.38,5676000,$52.01 B
-179,PSA,Public Storage,Real Estate,Glendale,California,2024-04-12,289,293,1.29,607400,$51.68 B
-180,GM,General Motors,Consumer Discretionary,Detroit,Michigan,2024-04-12,44,44,0.34,8793800,$51.64 B
-181,TRV,Travelers Companies (The),Financials,New York City,New York,2024-04-12,231,223,-3.11,975700,$51.28 B
-182,MMM,3M,Industrials,Saint Paul,Minnesota,2024-04-12,92,92,0.55,4236600,$51.25 B
-183,AIG,American International Group,Financials,New York City,New York,2024-04-12,78,75,-3.29,4389600,$50.90 B
-184,MCHP,Microchip Technology,Information Technology,Chandler,Arizona,2024-04-12,90,91,1.56,4985000,$49.54 B
-185,GWW,W. W. Grainger,Industrials,Lake Forest,Illinois,2024-04-12,1015,1007,-0.81,190200,$49.51 B
-186,ODFL,Old Dominion,Industrials,Thomasville,North Carolina,2024-04-12,224,222,-0.97,886100,$48.42 B
-187,HES,Hess Corporation,Energy,New York City,New York,2024-04-12,156,156,-0.17,1468900,$48.17 B
-188,STZ,Constellation Brands,Consumer Staples,Victor,New York,2024-04-12,267,262,-1.71,1203800,$48.08 B
-189,NUE,Nucor,Materials,Charlotte,North Carolina,2024-04-12,202,199,-1.26,908600,$47.97 B
-190,AFL,Aflac,Financials,Columbus,Georgia,2024-04-12,85,83,-2.31,2500600,$47.86 B
-191,WMB,Williams Companies,Energy,Tulsa,Oklahoma,2024-04-12,39,39,0.56,6305000,$47.81 B
-192,COR,Cencora,Health Care,Conshohocken,Pennsylvania,2024-04-12,241,238,-1.1,807600,$47.54 B
-193,ROST,Ross Stores,Consumer Discretionary,Dublin,California,2024-04-12,141,139,-1.12,2025700,$46.92 B
-194,O,Realty Income,Real Estate,San Diego,California,2024-04-12,53,54,1.15,3401400,$46.83 B
-195,URI,United Rentals,Industrials,Stamford,Connecticut,2024-04-12,705,696,-1.18,380400,$46.80 B
-196,OKE,ONEOK,Energy,Tulsa,Oklahoma,2024-04-12,80,79,-0.49,2676200,$46.58 B
-197,DLR,Digital Realty,Real Estate,Austin,Texas,2024-04-12,146,145,-0.65,1102900,$46.50 B
-198,NEM,Newmont,Materials,Denver,Colorado,2024-04-12,40,39,-1.24,14870800,$45.73 B
-199,LEN,Lennar,Consumer Discretionary,Miami,Florida,2024-04-12,166,165,-0.6,1427600,$45.69 B
-200,TEL,TE Connectivity,Information Technology,Schaffhausen,Switzerland,2024-04-12,147,147,0.43,1541400,$45.66 B
-201,PAYX,Paychex,Industrials,Penfield,New York,2024-04-12,124,126,1.43,2227500,$45.57 B
-202,SRE,Sempra Energy,Utilities,San Diego,California,2024-04-12,71,71,0.86,4393400,$45.34 B
-203,LULU,Lululemon Athletica,Consumer Discretionary,Vancouver,Canada,2024-04-12,360,358,-0.36,1963600,$45.21 B
-204,KHC,Kraft Heinz,Consumer Staples,Chicago,"Illinois; Pittsburgh, Pennsylvania",2024-04-12,37,37,0.13,4089800,$45.17 B
-205,AEP,American Electric Power,Utilities,Columbus,Ohio,2024-04-12,84,85,0.66,2812500,$44.80 B
-206,JCI,Johnson Controls,Industrials,Cork,Ireland,2024-04-12,64,65,1.22,3605100,$44.75 B
-207,IQV,IQVIA,Health Care,Durham,North Carolina,2024-04-12,244,245,0.4,548700,$44.65 B
-208,ALL,Allstate,Financials,Northbrook,Illinois,2024-04-12,172,168,-2.38,1218600,$44.40 B
-209,CCI,Crown Castle,Real Estate,Houston,Texas,2024-04-12,100,102,1.07,2106600,$44.32 B
-210,MSCI,MSCI,Financials,New York City,New York,2024-04-12,554,554,0.0,273600,$43.95 B
-211,FAST,Fastenal,Industrials,Winona,Minnesota,2024-04-12,76,75,-0.45,4195300,$43.45 B
-212,A,Agilent Technologies,Health Care,Santa Clara,California,2024-04-12,146,147,0.96,873700,$43.20 B
-213,IDXX,Idexx Laboratories,Health Care,Westbrook,Maine,2024-04-12,515,519,0.81,390100,$43.19 B
-214,KMB,Kimberly-Clark,Consumer Staples,Irving,Texas,2024-04-12,126,127,1.37,1884900,$43.10 B
-215,BK,Bank of New York Mellon,Financials,New York City,New York,2024-04-12,57,57,-0.07,2759800,$43.06 B
-216,AMP,Ameriprise Financial,Financials,Minneapolis,Minnesota,2024-04-12,437,429,-1.78,376900,$43.04 B
-217,MRNA,Moderna,Health Care,Cambridge,Massachusetts,2024-04-12,105,111,5.38,8939200,$42.73 B
-218,FIS,Fidelity National Information Services,Financials,Jacksonville,Florida,2024-04-12,73,73,0.83,2798700,$42.58 B
-219,DOW,Dow Inc.,Materials,Midland,Michigan,2024-04-12,59,59,-0.13,3574800,$42.39 B
-220,KDP,Keurig Dr Pepper,Consumer Staples,Burlington,Massachusetts,2024-04-12,30,31,0.29,4619600,$41.94 B
-221,AME,Ametek,Industrials,Berwyn,Pennsylvania,2024-04-12,181,181,-0.01,749100,$41.89 B
-222,D,Dominion Energy,Utilities,Richmond,Virginia,2024-04-12,48,49,1.16,4358700,$41.50 B
-223,CMI,Cummins,Industrials,Columbus,Indiana,2024-04-12,301,302,0.24,863600,$41.31 B
-224,PRU,Prudential Financial,Financials,Newark,New Jersey,2024-04-12,115,114,-1.14,1375300,$41.08 B
-225,KMI,Kinder Morgan,Energy,Houston,Texas,2024-04-12,18,18,0.38,8290600,$41.01 B
-226,CTVA,Corteva,Materials,Indianapolis,Indiana,2024-04-12,57,57,-0.36,1902000,$40.20 B
-227,OTIS,Otis Worldwide,Industrials,Farmington,Connecticut,2024-04-12,98,99,0.85,1718800,$40.19 B
-228,KR,Kroger,Consumer Staples,Cincinnati,Ohio,2024-04-12,55,55,-0.09,4401800,$40.00 B
-229,HSY,Hershey's,Consumer Staples,Hershey,Pennsylvania,2024-04-12,194,194,0.01,1351900,$39.74 B
-230,GEHC,GE HealthCare,Health Care,Chicago,Illinois,2024-04-12,88,86,-1.35,4172700,$39.67 B
-231,GIS,General Mills,Consumer Staples,Golden Valley,Minnesota,2024-04-12,69,70,1.09,4424900,$39.62 B
-232,LVS,Las Vegas Sands,Consumer Discretionary,Las Vegas,Nevada,2024-04-12,52,52,0.54,2316500,$39.53 B
-233,CHTR,Charter Communications,Communication Services,Stamford,Connecticut,2024-04-12,270,271,0.48,1216400,$39.20 B
-234,LHX,L3Harris,Industrials,Melbourne,Florida,2024-04-12,207,206,-0.6,977000,$39.19 B
-235,CSGP,CoStar Group,Real Estate,Washington,D.C.,2024-04-12,94,95,0.74,1156400,$39.08 B
-236,KVUE,Kenvue,Consumer Staples,Skillman,New Jersey,2024-04-12,20,20,1.29,10106700,$38.96 B
-237,CNC,Centene Corporation,Health Care,St. Louis,Missouri,2024-04-12,72,72,-0.33,2420600,$38.89 B
-238,SYY,Sysco,Consumer Staples,Houston,Texas,2024-04-12,77,77,0.66,2075400,$38.59 B
-239,YUM,Yum! Brands,Consumer Discretionary,Louisville,Kentucky,2024-04-12,135,137,1.45,1395500,$38.57 B
-240,HUM,Humana,Health Care,Louisville,Kentucky,2024-04-12,316,319,0.99,850300,$38.53 B
-241,EXC,Exelon,Utilities,Chicago,Illinois,2024-04-12,37,37,-0.08,3782700,$37.86 B
-242,MLM,Martin Marietta Materials,Materials,Raleigh,North Carolina,2024-04-12,621,610,-1.81,457500,$37.75 B
-243,IR,Ingersoll Rand,Industrials,Davidson,North Carolina,2024-04-12,94,93,-1.05,2259500,$37.72 B
-244,PWR,Quanta Services,Industrials,Houston,Texas,2024-04-12,263,256,-2.58,1026800,$37.37 B
-245,FANG,Diamondback Energy,Energy,Midland,Texas,2024-04-12,207,205,-0.97,1830200,$36.68 B
-246,IT,Gartner,Information Technology,Stamford,Connecticut,2024-04-12,474,469,-0.97,247100,$36.64 B
-247,NDAQ,"Nasdaq, Inc.",Financials,New York City,New York,2024-04-12,63,63,-0.27,4486900,$36.60 B
-248,HAL,Halliburton,Energy,Houston,Texas,2024-04-12,41,40,-0.53,4204100,$36.32 B
-249,PCG,PG&E Corporation,Utilities,San Francisco,California,2024-04-12,16,16,0.59,11010700,$36.31 B
-250,GEV,GE Vernova,Industrials,Cambridge,Massachusetts,2024-04-12,130,132,0.99,9142000,$35.96 B
-251,CTSH,Cognizant,Information Technology,Teaneck,New Jersey,2024-04-12,71,71,0.79,3157500,$35.63 B
-252,VMC,Vulcan Materials Company,Materials,Birmingham,Alabama,2024-04-12,269,265,-1.46,637500,$35.13 B
-253,EA,Electronic Arts,Communication Services,Redwood City,California,2024-04-12,130,130,0.15,1966800,$34.94 B
-254,BKR,Baker Hughes,Energy,Houston,Texas,2024-04-12,34,34,-0.55,3373000,$34.46 B
-255,DVN,Devon Energy,Energy,Oklahoma City,Oklahoma,2024-04-12,53,54,1.06,7885300,$34.38 B
-256,ACGL,Arch Capital Group,Financials,Hamilton,Bermuda,2024-04-12,94,91,-3.43,2371000,$34.22 B
-257,RCL,Royal Caribbean Group,Consumer Discretionary,Miami,Florida,2024-04-12,137,133,-3.24,3915400,$34.18 B
-258,CDW,CDW,Information Technology,Lincolnshire,Illinois,2024-04-12,255,254,-0.5,515600,$34.12 B
-259,LYB,LyondellBasell,Materials,Rotterdam,Netherlands,2024-04-12,104,104,0.28,956400,$34.00 B
-260,DG,Dollar General,Consumer Staples,Goodlettsville,Tennessee,2024-04-12,156,153,-1.88,2645800,$33.70 B
-261,PEG,Public Service Enterprise Group,Utilities,Newark,New Jersey,2024-04-12,67,67,0.18,2886600,$33.51 B
-262,PPG,PPG Industries,Materials,Pittsburgh,Pennsylvania,2024-04-12,140,142,1.04,1223000,$33.47 B
-263,EXR,Extra Space Storage,Real Estate,Salt Lake City,Utah,2024-04-12,150,152,1.59,963600,$33.34 B
-264,MPWR,Monolithic Power Systems,Information Technology,Kirkland,Washington,2024-04-12,691,682,-1.31,370400,$33.19 B
-265,VRSK,Verisk,Industrials,Jersey City,New Jersey,2024-04-12,227,229,0.73,690100,$32.89 B
-266,ROK,Rockwell Automation,Industrials,Milwaukee,Wisconsin,2024-04-12,282,286,1.41,867300,$32.87 B
-267,GPN,Global Payments,Financials,Atlanta,Georgia,2024-04-12,128,128,-0.49,1180200,$32.69 B
-268,EFX,Equifax,Industrials,Atlanta,Georgia,2024-04-12,261,262,0.45,670400,$32.64 B
-269,ADM,Archer-Daniels-Midland,Consumer Staples,Chicago,Illinois,2024-04-12,63,63,1.11,4067500,$32.58 B
-270,DD,DuPont,Materials,Wilmington,Delaware,2024-04-12,76,77,1.02,1969300,$32.27 B
-271,ED,Consolidated Edison,Utilities,New York City,New York,2024-04-12,90,91,0.39,1184100,$31.49 B
-272,DFS,Discover Financial,Financials,Riverwoods,Illinois,2024-04-12,125,125,-0.37,935300,$31.41 B
-273,XYL,Xylem Inc.,Industrials,White Plains,New York,2024-04-12,128,128,0.55,782100,$31.17 B
-274,VICI,Vici Properties,Real Estate,New York City,New York,2024-04-12,29,29,0.1,4761200,$31.09 B
-275,ON,ON Semiconductor,Information Technology,Phoenix,Arizona,2024-04-12,69,70,1.59,6344700,$30.49 B
-276,DAL,Delta Air Lines,Industrials,Atlanta,Georgia,2024-04-12,47,47,0.36,13330700,$30.44 B
-277,FICO,Fair Isaac,Information Technology,Bozeman,Montana,2024-04-12,1246,1219,-2.2,115400,$30.30 B
-278,XEL,Xcel Energy,Utilities,Minneapolis,Minnesota,2024-04-12,54,54,-0.15,2328700,$30.18 B
-279,BIIB,Biogen,Health Care,Cambridge,Massachusetts,2024-04-12,205,206,0.73,969000,$30.02 B
-280,ANSS,Ansys,Information Technology,Canonsburg,Pennsylvania,2024-04-12,347,344,-0.95,355600,$29.98 B
-281,FTV,Fortive,Industrials,Everett,Washington,2024-04-12,84,84,-0.38,1280700,$29.58 B
-282,CBRE,CBRE Group,Real Estate,Dallas,Texas,2024-04-12,96,96,-0.38,1300900,$29.41 B
-283,HIG,Hartford (The),Financials,Hartford,Connecticut,2024-04-12,102,98,-3.91,2185200,$29.39 B
-284,HPQ,HP Inc.,Information Technology,Palo Alto,California,2024-04-12,29,29,1.8,6593700,$29.33 B
-285,WST,West Pharmaceutical Services,Health Care,Exton,Pennsylvania,2024-04-12,394,392,-0.49,364900,$28.72 B
-286,MTD,Mettler Toledo,Health Care,Columbus,Ohio,2024-04-12,1309,1336,2.03,95700,$28.59 B
-287,RMD,ResMed,Health Care,San Diego,California,2024-04-12,189,194,2.79,988300,$28.57 B
-288,GRMN,Garmin,Consumer Discretionary,Schaffhausen,Switzerland,2024-04-12,149,148,-0.61,537200,$28.46 B
-289,KEYS,Keysight,Information Technology,Santa Rosa,California,2024-04-12,159,160,0.23,1395700,$27.94 B
-290,GLW,Corning Inc.,Information Technology,Corning,New York,2024-04-12,32,32,0.81,4345000,$27.84 B
-291,DLTR,Dollar Tree,Consumer Staples,Chesapeake,Virginia,2024-04-12,128,127,-0.53,2093000,$27.76 B
-292,TSCO,Tractor Supply,Consumer Discretionary,Brentwood,Tennessee,2024-04-12,251,253,0.76,790300,$27.33 B
-293,EIX,Edison International,Utilities,Rosemead,California,2024-04-12,70,70,-0.13,1552100,$27.27 B
-294,WTW,Willis Towers Watson,Financials,London,United Kingdom,2024-04-12,268,265,-1.15,469400,$27.11 B
-295,HWM,Howmet Aerospace,Industrials,Pittsburgh,Pennsylvania,2024-04-12,66,65,-1.39,4819400,$27.02 B
-296,EBAY,eBay,Consumer Discretionary,San Jose,California,2024-04-12,51,51,0.31,3566500,$26.92 B
-297,AVB,AvalonBay Communities,Real Estate,Arlington,Virginia,2024-04-12,186,188,1.08,873800,$26.85 B
-298,RJF,Raymond James,Financials,St. Petersburg,Florida,2024-04-12,130,128,-1.7,617600,$26.77 B
-299,TROW,T. Rowe Price,Financials,Baltimore,Maryland,2024-04-12,118,119,1.12,1249000,$26.76 B
-300,ZBH,Zimmer Biomet,Health Care,Warsaw,Indiana,2024-04-12,127,129,1.6,1203700,$26.59 B
-301,TTWO,Take-Two Interactive,Communication Services,New York City,New York,2024-04-12,155,154,-0.35,1018000,$26.41 B
-302,CAH,Cardinal Health,Health Care,Dublin,Ohio,2024-04-12,109,108,-1.52,1543400,$26.29 B
-303,WAB,Wabtec,Industrials,Pittsburgh,Pennsylvania,2024-04-12,149,147,-1.06,816700,$26.14 B
-304,WEC,WEC Energy Group,Utilities,Milwaukee,Wisconsin,2024-04-12,81,81,0.47,1069800,$25.87 B
-305,WY,Weyerhaeuser,Real Estate,Seattle,Washington,2024-04-12,34,35,1.13,2324300,$25.56 B
-306,NVR,"NVR, Inc.",Consumer Discretionary,Reston,Virginia,2024-04-12,7933,7972,0.5,16900,$25.50 B
-307,TRGP,Targa Resources,Energy,Houston,Texas,2024-04-12,116,114,-1.75,2238600,$25.46 B
-308,FITB,Fifth Third Bank,Financials,Cincinnati,Ohio,2024-04-12,36,36,0.28,2842700,$24.87 B
-309,CHD,Church & Dwight,Consumer Staples,Ewing,New Jersey,2024-04-12,101,101,0.1,819200,$24.85 B
-310,ALGN,Align Technology,Health Care,Tempe,Arizona,2024-04-12,322,330,2.4,600100,$24.80 B
-311,EQR,Equity Residential,Real Estate,Chicago,Illinois,2024-04-12,64,64,0.53,2536100,$24.47 B
-312,BR,Broadridge Financial Solutions,Industrials,Lake Success,New York,2024-04-12,206,207,0.54,576900,$24.41 B
-313,DOV,Dover Corporation,Industrials,Downers Grove,Illinois,2024-04-12,177,177,0.09,809600,$24.36 B
-314,PHM,PulteGroup,Consumer Discretionary,Atlanta,Georgia,2024-04-12,115,115,-0.42,1307100,$24.35 B
-315,BF-B,Brown–Forman,Consumer Staples,Louisville,Kentucky,2024-04-12,50,50,0.02,856700,$24.30 B
-316,BLDR,Builders FirstSource,Industrials,Irving,Texas,2024-04-12,200,199,-0.87,1060200,$24.29 B
-317,BRO,Brown & Brown,Financials,Daytona Beach,Florida,2024-04-12,85,84,-1.13,1191400,$24.13 B
-318,AWK,American Water Works,Utilities,Camden,New Jersey,2024-04-12,120,121,0.89,1492900,$23.74 B
-319,WDC,Western Digital,Information Technology,San Jose,California,2024-04-12,75,72,-4.0,8325300,$23.72 B
-320,LYV,Live Nation Entertainment,Communication Services,Beverly Hills,California,2024-04-12,103,102,-0.36,983500,$23.71 B
-321,SBAC,SBA Communications,Real Estate,Boca Raton,Florida,2024-04-12,215,218,1.66,753800,$23.63 B
-322,AXON,Axon Enterprise,Industrials,Scottsdale,Arizona,2024-04-12,310,311,0.22,305500,$23.49 B
-323,MTB,M&T Bank,Financials,Buffalo,New York,2024-04-12,141,140,-0.2,750500,$23.45 B
-324,HPE,Hewlett Packard Enterprise,Information Technology,Houston,Texas,2024-04-12,18,18,-1.04,10641500,$23.42 B
-325,STLD,Steel Dynamics,Materials,Fort Wayne,Indiana,2024-04-12,148,146,-1.44,823000,$23.21 B
-326,IRM,Iron Mountain,Real Estate,Boston,Massachusetts,2024-04-12,79,79,0.06,938000,$23.15 B
-327,STT,State Street Corporation,Financials,Boston,Massachusetts,2024-04-12,76,76,-0.05,1581700,$23.13 B
-328,DTE,DTE Energy,Utilities,Detroit,Michigan,2024-04-12,110,109,-0.57,1068900,$22.73 B
-329,ARE,Alexandria Real Estate Equities,Real Estate,Pasadena,California,2024-04-12,127,129,1.85,724700,$22.67 B
-330,ETR,Entergy,Utilities,New Orleans,Louisiana,2024-04-12,106,106,0.07,1492200,$22.67 B
-331,PTC,PTC,Information Technology,Boston,Massachusetts,2024-04-12,186,187,0.44,481900,$22.37 B
-332,DECK,Deckers Brands,Consumer Discretionary,Goleta,California,2024-04-12,891,867,-2.61,433400,$22.28 B
-333,MOH,Molina Healthcare,Health Care,Long Beach,California,2024-04-12,381,379,-0.31,236800,$22.26 B
-334,FE,FirstEnergy,Utilities,Akron,Ohio,2024-04-12,38,38,-0.08,2468900,$22.14 B
-335,IFF,International Flavors & Fragrances,Materials,New York City,New York,2024-04-12,85,86,0.61,950100,$22.05 B
-336,VLTO,Veralto,Industrials,Waltham,Massachusetts,2024-04-12,88,89,1.35,1215100,$22.02 B
-337,HUBB,Hubbell Incorporated,Industrials,Shelton,Connecticut,2024-04-12,417,409,-1.91,460783,$21.97 B
-338,ULTA,Ulta Beauty,Consumer Discretionary,Bolingbrook,Illinois,2024-04-12,450,454,1.04,595000,$21.95 B
-339,CPAY,Corpay,Financials,Atlanta,Georgia,2024-04-12,307,304,-0.98,386600,$21.89 B
-340,BAX,Baxter International,Health Care,Deerfield,Illinois,2024-04-12,42,42,0.99,2773000,$21.82 B
-341,ROL,"Rollins, Inc.",Industrials,Atlanta,Georgia,2024-04-12,45,45,-0.44,1578500,$21.81 B
-342,INVH,Invitation Homes,Real Estate,Dallas,Texas,2024-04-12,35,35,0.2,2634200,$21.77 B
-343,APTV,Aptiv,Consumer Discretionary,Dublin,Ireland,2024-04-12,76,78,3.16,2043900,$21.52 B
-344,NTAP,NetApp,Information Technology,San Jose,California,2024-04-12,106,104,-1.78,1282100,$21.49 B
-345,WRB,Berkley,Financials,Greenwich,Connecticut,2024-04-12,86,83,-3.61,1559700,$21.48 B
-346,ILMN,Illumina,Health Care,San Diego,California,2024-04-12,131,133,1.53,1735300,$21.27 B
-347,STE,Steris,Health Care,Dublin,Ireland,2024-04-12,213,214,0.62,598500,$21.22 B
-348,TSN,Tyson Foods,Consumer Staples,Springdale,Arkansas,2024-04-12,59,59,0.0,1715500,$21.21 B
-349,BALL,Ball Corporation,Materials,Broomfield,Colorado,2024-04-12,66,67,0.61,1446400,$21.21 B
-350,WBD,Warner Bros. Discovery,Communication Services,New York City,New York,2024-04-12,8,8,2.0,26272500,$21.20 B
-351,ES,Eversource,Utilities,Hartford,Connecticut,2024-04-12,59,59,0.65,1860600,$21.03 B
-352,GPC,Genuine Parts Company,Consumer Discretionary,Atlanta,Georgia,2024-04-12,150,150,-0.05,610200,$20.98 B
-353,CTRA,Coterra,Energy,Houston,Texas,2024-04-12,28,27,-1.1,6042000,$20.95 B
-354,HBAN,Huntington Bancshares,Financials,Columbus,"Ohio; Detroit, Michigan",2024-04-12,14,14,-0.07,11351700,$20.44 B
-355,WAT,Waters Corporation,Health Care,Milford,Massachusetts,2024-04-12,342,345,0.6,295500,$20.43 B
-356,PPL,PPL Corporation,Utilities,Allentown,Pennsylvania,2024-04-12,27,27,0.07,3513300,$20.31 B
-357,CCL,Carnival,Consumer Discretionary,Miami,Florida,2024-04-12,15,15,-0.77,25736000,$20.31 B
-358,MKC,McCormick & Company,Consumer Staples,Hunt Valley,Maryland,2024-04-12,75,75,-0.34,1045800,$20.30 B
-359,JBHT,J.B. Hunt,Industrials,Lowell,Arkansas,2024-04-12,195,194,-0.32,624900,$20.09 B
-360,FSLR,First Solar,Information Technology,Tempe,Arizona,2024-04-12,181,184,2.04,2009900,$19.77 B
-361,AEE,Ameren,Utilities,St. Louis,Missouri,2024-04-12,73,73,0.53,1147100,$19.72 B
-362,TDY,Teledyne Technologies,Information Technology,Thousand Oaks,California,2024-04-12,415,416,0.25,529500,$19.71 B
-363,COO,CooperCompanies,Health Care,San Ramon,California,2024-04-12,98,98,0.03,906200,$19.66 B
-364,K,Kellanova,Consumer Staples,Chicago,Illinois,2024-04-12,57,57,-0.78,2095900,$19.52 B
-365,PFG,Principal Financial Group,Financials,Des Moines,Iowa,2024-04-12,84,82,-2.34,870700,$19.47 B
-366,HRL,Hormel Foods,Consumer Staples,Austin,Minnesota,2024-04-12,35,35,0.4,2614400,$19.34 B
-367,VRSN,Verisign,Information Technology,Dulles,Virginia,2024-04-12,187,189,0.95,655800,$19.14 B
-368,RF,Regions Financial Corporation,Financials,Birmingham,Alabama,2024-04-12,20,20,0.93,5321400,$19.02 B
-369,CBOE,Cboe Global Markets,Financials,Chicago,Illinois,2024-04-12,182,179,-1.64,896900,$18.91 B
-370,DRI,Darden Restaurants,Consumer Discretionary,Orlando,Florida,2024-04-12,156,158,0.91,927100,$18.90 B
-371,CINF,Cincinnati Financial,Financials,Fairfield,Ohio,2024-04-12,122,119,-2.14,394500,$18.78 B
-372,STX,Seagate Technology,Information Technology,Dublin,Ireland,2024-04-12,90,89,-0.57,2816700,$18.76 B
-373,CE,Celanese,Materials,Irving,Texas,2024-04-12,167,166,-0.65,795400,$18.55 B
-374,TXT,Textron,Industrials,Providence,Rhode Island,2024-04-12,96,96,-0.66,910700,$18.53 B
-375,OMC,Omnicom Group,Communication Services,New York City,New York,2024-04-12,93,93,1.01,1081600,$18.52 B
-376,J,Jacobs Solutions,Industrials,Dallas,Texas,2024-04-12,146,146,-0.14,433900,$18.44 B
-377,HOLX,Hologic,Health Care,Marlborough,Massachusetts,2024-04-12,77,78,0.64,1336400,$18.41 B
-378,IEX,IDEX Corporation,Industrials,Lake Forest,Illinois,2024-04-12,240,241,0.62,254200,$18.28 B
-379,EXPE,Expedia Group,Consumer Discretionary,Seattle,Washington,2024-04-12,132,133,0.35,1108700,$18.16 B
-380,NTRS,Northern Trust,Financials,Chicago,Illinois,2024-04-12,88,88,-0.33,762600,$17.98 B
-381,TYL,Tyler Technologies,Information Technology,Plano,Texas,2024-04-12,420,423,0.64,286000,$17.96 B
-382,CNP,CenterPoint Energy,Utilities,Houston,Texas,2024-04-12,28,28,-0.11,4468000,$17.90 B
-383,CLX,Clorox,Consumer Staples,Oakland,California,2024-04-12,144,144,-0.22,1461000,$17.87 B
-384,VTR,Ventas,Real Estate,Chicago,Illinois,2024-04-12,43,44,0.99,2216400,$17.78 B
-385,BBY,Best Buy,Consumer Discretionary,Richfield,Minnesota,2024-04-12,80,82,2.28,3370800,$17.78 B
-386,CMS,CMS Energy,Utilities,Jackson,Michigan,2024-04-12,59,59,-0.2,1927000,$17.69 B
-387,AVY,Avery Dennison,Materials,Mentor,Ohio,2024-04-12,218,219,0.49,293400,$17.68 B
-388,LH,LabCorp,Health Care,Burlington,North Carolina,2024-04-12,211,210,-0.69,714100,$17.67 B
-389,ATO,Atmos Energy,Utilities,Dallas,Texas,2024-04-12,116,116,-0.09,558700,$17.59 B
-390,LUV,Southwest Airlines,Industrials,Dallas,Texas,2024-04-12,28,29,1.36,7798900,$17.38 B
-391,DPZ,Domino's,Consumer Discretionary,Ann Arbor,Michigan,2024-04-12,500,498,-0.33,556400,$17.36 B
-392,SYF,Synchrony Financial,Financials,Stamford,Connecticut,2024-04-12,42,42,-0.49,2287400,$17.22 B
-393,EXPD,Expeditors International,Industrials,Seattle,Washington,2024-04-12,119,121,1.67,1376900,$17.17 B
-394,LDOS,Leidos,Industrials,Reston,Virginia,2024-04-12,129,127,-1.82,714400,$17.16 B
-395,SWKS,Skyworks Solutions,Information Technology,Irvine,California,2024-04-12,105,106,1.64,1418400,$17.15 B
-396,PKG,Packaging Corporation of America,Materials,Lake Forest,Illinois,2024-04-12,191,189,-0.61,453300,$17.04 B
-397,TER,Teradyne,Information Technology,North Reading,Massachusetts,2024-04-12,108,111,2.07,1439400,$17.01 B
-398,MAS,Masco,Industrials,Livonia,Michigan,2024-04-12,77,76,-0.78,1181100,$16.86 B
-399,FDS,FactSet,Financials,Norwalk,Connecticut,2024-04-12,442,439,-0.73,225100,$16.76 B
-400,EQT,EQT,Energy,Pittsburgh,Pennsylvania,2024-04-12,36,37,2.73,6559900,$16.73 B
-401,L,Loews Corporation,Financials,New York City,New York,2024-04-12,76,75,-1.43,698400,$16.70 B
-402,ESS,Essex Property Trust,Real Estate,San Mateo,California,2024-04-12,244,249,2.15,315100,$16.59 B
-403,ENPH,Enphase,Information Technology,Fremont,California,2024-04-12,115,121,5.77,3444800,$16.56 B
-404,WBA,Walgreens Boots Alliance,Consumer Staples,Deerfield,Illinois,2024-04-12,19,19,-0.21,11101500,$16.54 B
-405,MRO,Marathon Oil,Energy,Houston,Texas,2024-04-12,29,29,-1.08,9903300,$16.52 B
-406,AKAM,Akamai,Information Technology,Cambridge,Massachusetts,2024-04-12,106,107,1.35,1233400,$16.48 B
-407,JBL,Jabil,Information Technology,St. Petersburg,Florida,2024-04-12,138,136,-1.56,1184800,$16.47 B
-408,MAA,Mid-America Apartment Communities,Real Estate,Memphis,Tennessee,2024-04-12,133,135,1.48,1096700,$16.23 B
-409,EG,Everest Re,Financials,Hamilton,Bermuda,2024-04-12,380,371,-2.41,307600,$16.12 B
-410,CFG,Citizens Financial Group,Financials,Providence,Rhode Island,2024-04-12,35,34,-0.37,3586100,$16.04 B
-411,EPAM,EPAM Systems,Information Technology,Newtown,Pennsylvania,2024-04-12,271,274,1.04,264200,$15.85 B
-412,ZBRA,Zebra Technologies,Information Technology,Lincolnshire,Illinois,2024-04-12,299,306,2.25,364500,$15.74 B
-413,NDSN,Nordson Corporation,Industrials,Westlake,Ohio,2024-04-12,272,273,0.57,165700,$15.66 B
-414,NRG,NRG Energy,Utilities,Houston,Texas,2024-04-12,74,72,-1.91,3186900,$15.63 B
-415,SNA,Snap-on,Industrials,Kenosha,Wisconsin,2024-04-12,294,293,-0.17,240600,$15.53 B
-416,TRMB,Trimble Inc.,Information Technology,Westminster,Colorado,2024-04-12,62,62,0.75,1533700,$15.47 B
-417,POOL,Pool Corporation,Consumer Discretionary,Covington,Louisiana,2024-04-12,397,400,0.54,280100,$15.40 B
-418,CF,CF Industries,Materials,Deerfield,Illinois,2024-04-12,80,81,1.4,2607500,$15.23 B
-419,ALB,Albemarle Corporation,Materials,Charlotte,North Carolina,2024-04-12,132,129,-2.83,3003100,$15.18 B
-420,BG,Bunge Global SA,Consumer Staples,Chesterfield,Missouri,2024-04-12,106,107,0.58,1236400,$15.09 B
-421,CAG,Conagra Brands,Consumer Staples,Chicago,Illinois,2024-04-12,31,31,-0.32,4320400,$14.95 B
-422,SWK,Stanley Black & Decker,Industrials,New Britain,Connecticut,2024-04-12,95,97,1.46,1412400,$14.95 B
-423,HST,Host Hotels & Resorts,Real Estate,Bethesda,Maryland,2024-04-12,20,20,0.58,3293500,$14.79 B
-424,DGX,Quest Diagnostics,Health Care,Secaucus,New Jersey,2024-04-12,130,132,1.55,800000,$14.74 B
-425,MGM,MGM Resorts,Consumer Discretionary,Paradise,Nevada,2024-04-12,46,46,0.04,2223900,$14.71 B
-426,NWS,News Corp (Class B),Communication Services,New York City,New York,2024-04-12,26,26,-1.35,848200,$14.67 B
-427,NWSA,News Corp (Class A),Communication Services,New York City,New York,2024-04-12,25,25,-1.35,2921400,$14.65 B
-428,BEN,Franklin Templeton,Financials,San Mateo,California,2024-04-12,27,27,0.4,3063200,$14.50 B
-429,GEN,Gen Digital,Information Technology,Tempe,Arizona,2024-04-12,22,22,1.16,2422600,$14.43 B
-430,KEY,KeyCorp,Financials,Cleveland,Ohio,2024-04-12,15,15,0.19,9560100,$14.40 B
-431,FOX,Fox Corporation (Class B),Communication Services,New York City,New York,2024-04-12,28,28,0.24,823300,$14.30 B
-432,TAP,Molson Coors Beverage Company,Consumer Staples,Chicago,Illinois,2024-04-12,69,67,-2.67,2344800,$14.29 B
-433,FOXA,Fox Corporation (Class A),Communication Services,New York City,New York,2024-04-12,31,31,0.42,3662600,$14.28 B
-434,UAL,United Airlines Holdings,Industrials,Chicago,Illinois,2024-04-12,43,43,0.02,6343100,$14.25 B
-435,VTRS,Viatris,Health Care,Pittsburgh,Pennsylvania,2024-04-12,11,11,0.77,5625700,$14.04 B
-436,PNR,Pentair,Industrials,Worsley,United Kingdom,2024-04-12,83,83,-0.21,1445200,$13.90 B
-437,LKQ,LKQ Corporation,Consumer Discretionary,Chicago,Illinois,2024-04-12,51,51,0.41,1097900,$13.83 B
-438,DOC,Healthpeak,Real Estate,Denver,Colorado,2024-04-12,19,19,1.52,5368700,$13.72 B
-439,RVTY,Revvity,Health Care,Waltham,Massachusetts,2024-04-12,108,110,2.52,1757700,$13.68 B
-440,AMCR,Amcor,Materials,Warmley,"Bristol, United Kingdom",2024-04-12,9,9,1.74,6915300,$13.56 B
-441,UDR,"UDR, Inc.",Real Estate,Highlands Ranch,Colorado,2024-04-12,37,37,1.39,3610800,$13.47 B
-442,CPB,Campbell Soup Company,Consumer Staples,Camden,New Jersey,2024-04-12,43,44,1.6,3057400,$13.25 B
-443,CRL,Charles River Laboratories,Health Care,Wilmington,Massachusetts,2024-04-12,257,257,-0.05,328400,$13.25 B
-444,IP,International Paper,Materials,Memphis,Tennessee,2024-04-12,38,38,0.1,3673400,$13.20 B
-445,KMX,CarMax,Consumer Discretionary,Richmond,Virginia,2024-04-12,83,83,0.41,1843700,$13.17 B
-446,AES,AES Corporation,Utilities,Arlington,Virginia,2024-04-12,18,18,-0.44,7804200,$13.00 B
-447,LNT,Alliant Energy,Utilities,Madison,Wisconsin,2024-04-12,49,49,0.62,990400,$12.82 B
-448,KIM,Kimco Realty,Real Estate,New Hyde Park,New York,2024-04-12,18,18,0.96,3434600,$12.77 B
-449,AOS,A. O. Smith,Industrials,Milwaukee,Wisconsin,2024-04-12,87,86,-0.72,1251600,$12.72 B
-450,JKHY,Jack Henry & Associates,Financials,Monett,Missouri,2024-04-12,172,174,1.11,346400,$12.69 B
-451,WRK,WestRock,Materials,Atlanta,Georgia,2024-04-12,49,49,-0.1,1479300,$12.63 B
-452,SJM,J.M. Smucker Company (The),Consumer Staples,Orrville,Ohio,2024-04-12,116,117,1.12,982600,$12.46 B
-453,PODD,Insulet,Health Care,Acton,Massachusetts,2024-04-12,171,178,3.98,939700,$12.45 B
-454,INCY,Incyte,Health Care,Wilmington,Delaware,2024-04-12,55,55,0.18,1483400,$12.42 B
-455,NI,NiSource,Utilities,Merrillville,Indiana,2024-04-12,27,27,0.36,3359800,$12.39 B
-456,EVRG,Evergy,Utilities,Kansas City,Missouri,2024-04-12,53,52,-0.09,1651100,$12.17 B
-457,JNPR,Juniper Networks,Information Technology,Sunnyvale,California,2024-04-12,37,37,0.11,2163200,$12.06 B
-458,IPG,Interpublic Group of Companies (The),Communication Services,New York City,New York,2024-04-12,31,31,1.24,2878500,$12.02 B
-459,EMN,Eastman Chemical Company,Materials,Kingsport,Tennessee,2024-04-12,101,101,0.42,813900,$11.99 B
-460,WYNN,Wynn Resorts,Consumer Discretionary,Paradise,Nevada,2024-04-12,105,106,0.48,930300,$11.93 B
-461,PAYC,Paycom,Industrials,Oklahoma City,Oklahoma,2024-04-12,203,207,2.27,647800,$11.75 B
-462,ALLE,Allegion,Industrials,Dublin,Ireland,2024-04-12,133,133,0.34,336700,$11.72 B
-463,DVA,DaVita Inc.,Health Care,Denver,Colorado,2024-04-12,134,134,-0.39,310500,$11.71 B
-464,LW,Lamb Weston,Consumer Staples,Eagle,Idaho,2024-04-12,78,80,3.13,5574400,$11.61 B
-465,UHS,Universal Health Services,Health Care,King of Prussia,Pennsylvania,2024-04-12,171,171,-0.13,665600,$11.55 B
-466,FFIV,"F5, Inc.",Information Technology,Seattle,Washington,2024-04-12,193,196,1.59,525100,$11.53 B
-467,SOLV,Solventum,Health Care,Saint Paul,Minnesota,2024-04-12,65,65,0.06,2894600,$11.32 B
-468,QRVO,Qorvo,Information Technology,Greensboro,North Carolina,2024-04-12,115,116,0.85,833700,$11.25 B
-469,TECH,Bio-Techne,Health Care,Minneapolis,Minnesota,2024-04-12,68,71,3.59,1175100,$11.20 B
-470,REG,Regency Centers,Real Estate,Jacksonville,Florida,2024-04-12,59,60,1.47,1918800,$11.19 B
-471,CPT,Camden Property Trust,Real Estate,Houston,Texas,2024-04-12,102,103,0.78,1684400,$11.06 B
-472,HII,Huntington Ingalls Industries,Industrials,Newport News,Virginia,2024-04-12,283,275,-2.85,542700,$10.91 B
-473,RL,Ralph Lauren Corporation,Consumer Discretionary,New York City,New York,2024-04-12,170,169,-0.55,1423500,$10.85 B
-474,MOS,Mosaic Company (The),Materials,Tampa,Florida,2024-04-12,32,33,1.49,3995800,$10.72 B
-475,TFX,Teleflex,Health Care,Wayne,Pennsylvania,2024-04-12,217,223,2.88,228300,$10.54 B
-476,APA,APA Corporation,Energy,Houston,Texas,2024-04-12,35,34,-0.68,6547500,$10.52 B
-477,BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Columbus,Ohio,2024-04-12,46,46,-1.05,2952300,$10.38 B
-478,CTLT,Catalent,Health Care,Somerset,New Jersey,2024-04-12,56,57,0.28,990000,$10.30 B
-479,BXP,Boston Properties,Real Estate,Boston,Massachusetts,2024-04-12,63,65,3.0,1415600,$10.25 B
-480,GL,Globe Life,Financials,McKinney,Texas,2024-04-12,108,107,-0.68,1309100,$10.12 B
-481,DAY,Dayforce,Industrials,Minneapolis,Minnesota,2024-04-12,62,64,1.78,1242800,$10.69 B
-482,TPR,"Tapestry, Inc.",Consumer Discretionary,New York City,New York,2024-04-12,43,42,-1.07,3316300,$9.79 B
-483,BIO,Bio-Rad,Health Care,Hercules,California,2024-04-12,330,339,2.79,101500,$9.60 B
-484,CZR,Caesars Entertainment,Consumer Discretionary,Reno,Nevada,2024-04-12,43,43,1.59,1466000,$9.51 B
-485,MTCH,Match Group,Communication Services,Dallas,Texas,2024-04-12,34,35,2.51,3844500,$9.41 B
-486,HSIC,Henry Schein,Health Care,Melville,New York,2024-04-12,72,73,1.11,655500,$9.40 B
-487,AIZ,Assurant,Financials,Atlanta,Georgia,2024-04-12,181,178,-1.54,290100,$9.29 B
-488,AAL,American Airlines Group,Industrials,Fort Worth,Texas,2024-04-12,13,13,-0.07,27832200,$9.13 B
-489,FRT,Federal Realty,Real Estate,Rockville,Maryland,2024-04-12,101,102,1.55,641400,$8.60 B
-490,MKTX,MarketAxess,Financials,New York City,New York,2024-04-12,226,226,0.0,407100,$8.58 B
-491,PNW,Pinnacle West,Utilities,Phoenix,Arizona,2024-04-12,74,74,0.36,1051200,$8.47 B
-492,GNRC,Generac,Industrials,Waukesha,Wisconsin,2024-04-12,136,140,2.88,1202400,$8.45 B
-493,CHRW,CH Robinson,Industrials,Eden Prairie,Minnesota,2024-04-12,71,72,1.94,1049600,$8.44 B
-494,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,Miami,Florida,2024-04-12,19,19,-0.26,15053500,$8.26 B
-495,BWA,BorgWarner,Consumer Discretionary,Auburn Hills,Michigan,2024-04-12,35,35,1.02,2224000,$8.22 B
-496,ETSY,Etsy,Consumer Discretionary,New York City,New York,2024-04-12,66,68,3.73,2996800,$8.14 B
-497,MHK,Mohawk Industries,Consumer Discretionary,Calhoun,Georgia,2024-04-12,124,125,0.72,516700,$7.99 B
-498,RHI,Robert Half,Industrials,Menlo Park,California,2024-04-12,76,75,-0.32,764600,$7.98 B
-499,HAS,Hasbro,Consumer Discretionary,Pawtucket,Rhode Island,2024-04-12,57,57,-0.47,1171400,$7.98 B
-500,FMC,FMC Corporation,Materials,Philadelphia,Pennsylvania,2024-04-12,61,63,3.59,1817100,$7.96 B
-501,PARA,Paramount Global,Communication Services,New York City,New York,2024-04-12,11,10,-0.36,17748200,$7.67 B
-502,IVZ,Invesco,Financials,Atlanta,Georgia,2024-04-12,17,16,-0.59,2976900,$7.61 B
-503,CMA,Comerica,Financials,Dallas,Texas,2024-04-12,54,54,0.72,1186100,$7.22 B
+1,MSFT,Microsoft,Information Technology,Redmond,Washington,2024-05-17,422,420,-0.55,15334200,$3.12 T
+2,AAPL,Apple Inc.,Information Technology,Cupertino,California,2024-05-17,189,189,0.19,41260800,$2.91 T
+3,NVDA,Nvidia,Information Technology,Santa Clara,California,2024-05-17,943,924,-2.0,34651900,$2.27 T
+4,GOOGL,Alphabet Inc. (Class A),Communication Services,Mountain View,California,2024-05-17,174,176,1.08,22235500,$2.18 T
+5,GOOG,Alphabet Inc. (Class C),Communication Services,Mountain View,California,2024-05-17,175,177,0.99,16502700,$2.18 T
+6,AMZN,Amazon,Consumer Discretionary,Seattle,Washington,2024-05-17,183,184,0.51,31813700,$1.92 T
+7,META,Meta Platforms,Communication Services,Menlo Park,California,2024-05-17,470,471,0.23,9979600,$1.20 T
+8,BRK-B,Berkshire Hathaway,Financials,Omaha,Nebraska,2024-05-17,413,416,0.72,2988700,$900.82 B
+9,LLY,Eli Lilly and Company,Health Care,Indianapolis,Indiana,2024-05-17,772,770,-0.37,1669000,$731.81 B
+10,AVGO,Broadcom Inc.,Information Technology,Palo Alto,California,2024-05-17,1412,1395,-1.21,1814900,$646.61 B
+11,JPM,JPMorgan Chase,Financials,New York City,New York,2024-05-17,203,204,0.48,9259400,$588.09 B
+12,V,Visa Inc.,Financials,San Francisco,California,2024-05-17,280,280,0.02,6127500,$573.11 B
+13,TSLA,"Tesla, Inc.",Consumer Discretionary,Austin,Texas,2024-05-17,173,177,2.25,76627600,$565.96 B
+14,XOM,ExxonMobil,Energy,Irving,Texas,2024-05-17,118,119,1.13,15103100,$536.70 B
+15,WMT,Walmart,Consumer Staples,Bentonville,Arkansas,2024-05-17,64,64,0.64,29327000,$521.07 B
+16,UNH,UnitedHealth Group,Health Care,Minnetonka,Minnesota,2024-05-17,522,524,0.32,2657200,$482.86 B
+17,MA,Mastercard,Financials,Harrison,New York,2024-05-17,460,460,-0.04,1983300,$427.87 B
+18,PG,Procter & Gamble,Consumer Staples,Cincinnati,Ohio,2024-05-17,167,167,-0.02,4700800,$395.65 B
+19,JNJ,Johnson & Johnson,Health Care,New Brunswick,New Jersey,2024-05-17,154,154,-0.14,6512200,$372.17 B
+20,COST,Costco,Consumer Staples,Issaquah,Washington,2024-05-17,793,795,0.28,1308500,$352.94 B
+21,HD,Home Depot (The),Consumer Discretionary,Atlanta,Georgia,2024-05-17,344,344,-0.16,2738400,$341.12 B
+22,ORCL,Oracle Corporation,Information Technology,Austin,Texas,2024-05-17,123,123,0.26,6177900,$339.44 B
+23,MRK,Merck & Co.,Health Care,Kenilworth,New Jersey,2024-05-17,130,131,0.38,8281600,$332.28 B
+24,BAC,Bank of America,Financials,Charlotte,North Carolina,2024-05-17,39,39,-0.41,25531500,$307.26 B
+25,CVX,Chevron Corporation,Energy,San Ramon,California,2024-05-17,161,162,0.57,5497500,$299.80 B
+26,ABBV,AbbVie,Health Care,North Chicago,Illinois,2024-05-17,165,166,0.62,4976200,$293.88 B
+27,CRM,Salesforce,Information Technology,San Francisco,California,2024-05-17,287,285,-0.5,3476800,$277.40 B
+28,KO,Coca-Cola Company (The),Consumer Staples,Atlanta,Georgia,2024-05-17,63,63,-0.49,11534300,$271.53 B
+29,NFLX,Netflix,Communication Services,Los Gatos,California,2024-05-17,617,621,0.66,3655500,$267.63 B
+30,AMD,Advanced Micro Devices,Information Technology,Santa Clara,California,2024-05-17,168,164,-2.35,65893100,$265.82 B
+31,PEP,PepsiCo,Consumer Staples,Purchase,New York,2024-05-17,182,182,-0.22,4443500,$250.47 B
+32,TMO,Thermo Fisher Scientific,Health Care,Waltham,Massachusetts,2024-05-17,596,595,-0.28,1398400,$227.24 B
+33,ADBE,Adobe Inc.,Information Technology,San Jose,California,2024-05-17,483,483,0.02,2260900,$216.58 B
+34,QCOM,Qualcomm,Information Technology,San Diego,California,2024-05-17,192,193,0.5,5798000,$216.35 B
+35,WFC,Wells Fargo,Financials,San Francisco,California,2024-05-17,61,61,-0.54,15795800,$212.94 B
+36,LIN,Linde plc,Materials,Guildford,United Kingdom,2024-05-17,430,432,0.51,1150700,$207.92 B
+37,DHR,Danaher Corporation,Health Care,Washington,D.C.,2024-05-17,265,265,0.29,3187400,$196.87 B
+38,MCD,McDonald's,Consumer Discretionary,Chicago,Illinois,2024-05-17,274,272,-0.61,2454500,$196.30 B
+39,CSCO,Cisco,Information Technology,San Jose,California,2024-05-17,48,48,-0.19,21990500,$195.05 B
+40,TMUS,T-Mobile US,Communication Services,Bellevue,Washington,2024-05-17,163,164,0.55,2904700,$192.18 B
+41,ACN,Accenture,Information Technology,Dublin,Ireland,2024-05-17,309,303,-1.99,4229200,$190.88 B
+42,DIS,Walt Disney Company (The),Communication Services,Burbank,California,2024-05-17,103,103,-0.37,7349100,$188.23 B
+43,INTU,Intuit,Information Technology,Mountain View,California,2024-05-17,655,661,0.9,774700,$185.12 B
+44,ABT,Abbott,Health Care,North Chicago,Illinois,2024-05-17,104,104,-0.31,7004300,$181.08 B
+45,TXN,Texas Instruments,Information Technology,Dallas,Texas,2024-05-17,195,195,0.01,4533900,$177.56 B
+46,AMAT,Applied Materials,Information Technology,Santa Clara,California,2024-05-17,216,212,-2.0,8025500,$176.22 B
+47,GE,GE Aerospace,Industrials,Evendale,Ohio,2024-05-17,161,159,-1.19,5945500,$175.02 B
+48,AXP,American Express,Financials,New York City,New York,2024-05-17,242,242,0.01,1848700,$174.66 B
+49,CAT,Caterpillar Inc.,Industrials,Irving,Texas,2024-05-17,352,356,0.93,2104300,$174.23 B
+50,VZ,Verizon,Communication Services,New York City,New York,2024-05-17,40,40,-0.82,14666700,$168.62 B
+51,AMGN,Amgen,Health Care,Thousand Oaks,California,2024-05-17,315,312,-0.89,1973600,$167.62 B
+52,MS,Morgan Stanley,Financials,New York City,New York,2024-05-17,99,100,0.32,4690500,$162.87 B
+53,PFE,Pfizer,Health Care,New York City,New York,2024-05-17,28,28,-0.9,26078600,$162.29 B
+54,NOW,ServiceNow,Information Technology,Santa Clara,California,2024-05-17,765,765,0.01,875000,$157.13 B
+55,NEE,NextEra Energy,Utilities,Juno Beach,Florida,2024-05-17,76,76,-0.34,9489900,$156.33 B
+56,IBM,IBM,Information Technology,Armonk,New York,2024-05-17,168,169,0.04,2954100,$155.27 B
+57,PM,Philip Morris International,Consumer Staples,New York City,New York,2024-05-17,100,99,-1.1,5239600,$155.19 B
+58,CMCSA,Comcast,Communication Services,Philadelphia,Pennsylvania,2024-05-17,39,39,-0.03,13732600,$154.08 B
+59,BX,Blackstone,Financials,New York City,New York,2024-05-17,128,125,-2.28,3935900,$151.94 B
+60,GS,Goldman Sachs,Financials,New York City,New York,2024-05-17,466,467,0.29,1655900,$150.82 B
+61,UNP,Union Pacific Corporation,Industrials,Omaha,Nebraska,2024-05-17,246,244,-0.54,2105700,$149.46 B
+62,SCHW,Charles Schwab Corporation,Financials,Westlake,Texas,2024-05-17,78,78,0.61,6464600,$144.02 B
+63,COP,ConocoPhillips,Energy,Houston,Texas,2024-05-17,120,121,0.67,4449900,$142.34 B
+64,ISRG,Intuitive Surgical,Health Care,Sunnyvale,California,2024-05-17,396,398,0.66,716200,$141.46 B
+65,NKE,"Nike, Inc.",Consumer Discretionary,Washington County,Oregon,2024-05-17,92,92,0.18,12018200,$139.13 B
+66,MU,Micron Technology,Information Technology,Boise,Idaho,2024-05-17,128,125,-2.39,13767500,$138.74 B
+67,RTX,RTX Corporation,Industrials,Waltham,Massachusetts,2024-05-17,104,104,-0.49,8500900,$138.51 B
+68,SPGI,S&P Global,Financials,New York City,New York,2024-05-17,439,441,0.5,1236200,$138.26 B
+69,UBER,Uber,Industrials,San Francisco,California,2024-05-17,66,65,-1.25,15463400,$137.22 B
+70,INTC,Intel,Information Technology,Santa Clara,California,2024-05-17,32,31,-0.72,41430700,$135.58 B
+71,HON,Honeywell,Industrials,Charlotte,North Carolina,2024-05-17,206,205,-0.44,2267200,$134.12 B
+72,LOW,Lowe's,Consumer Discretionary,Mooresville,North Carolina,2024-05-17,232,231,-0.67,1968800,$132.24 B
+73,ETN,Eaton Corporation,Industrials,Dublin,Ireland,2024-05-17,332,330,-0.53,1881400,$132.06 B
+74,UPS,United Parcel Service,Industrials,Sandy Springs,Georgia,2024-05-17,149,149,-0.23,1937600,$127.68 B
+75,SYK,Stryker Corporation,Health Care,Kalamazoo,Michigan,2024-05-17,334,334,0.02,940500,$127.50 B
+76,ELV,Elevance Health,Health Care,Indianapolis,Indiana,2024-05-17,546,547,0.23,774200,$127.30 B
+77,BKNG,Booking Holdings,Consumer Discretionary,Norwalk,Connecticut,2024-05-17,3758,3708,-1.33,197800,$125.82 B
+78,T,AT&T,Communication Services,Dallas,Texas,2024-05-17,17,17,0.0,25883400,$124.76 B
+79,PGR,Progressive Corporation,Financials,Mayfield Village,Ohio,2024-05-17,209,209,-0.04,2005000,$122.54 B
+80,C,Citigroup,Financials,New York City,New York,2024-05-17,64,64,-0.48,8417500,$122.21 B
+81,BLK,BlackRock,Financials,New York City,New York,2024-05-17,810,812,0.22,383900,$120.70 B
+82,LRCX,Lam Research,Information Technology,Fremont,California,2024-05-17,952,912,-4.24,910600,$119.24 B
+83,VRTX,Vertex Pharmaceuticals,Health Care,Cambridge,Massachusetts,2024-05-17,442,445,0.73,1382400,$114.89 B
+84,MDT,Medtronic,Health Care,Dublin,Ireland,2024-05-17,85,85,0.1,8235500,$114.09 B
+85,TJX,TJX Companies,Consumer Discretionary,Framingham,Massachusetts,2024-05-17,99,100,1.09,6466500,$113.58 B
+86,BA,Boeing,Industrials,Arlington,Virginia,2024-05-17,183,184,0.93,5557900,$113.54 B
+87,LMT,Lockheed Martin,Industrials,Bethesda,Maryland,2024-05-17,465,466,0.08,677200,$111.86 B
+88,CB,Chubb Limited,Financials,Zurich,Switzerland,2024-05-17,267,274,2.57,4301000,$111.37 B
+89,DE,John Deere,Industrials,Moline,Illinois,2024-05-17,394,397,0.65,1611700,$110.51 B
+90,BSX,Boston Scientific,Health Care,Marlborough,Massachusetts,2024-05-17,74,74,-0.39,6978200,$109.75 B
+91,REGN,Regeneron,Health Care,Tarrytown,New York,2024-05-17,969,982,1.34,386600,$108.23 B
+92,ADI,Analog Devices,Information Technology,Wilmington,Massachusetts,2024-05-17,214,214,-0.2,2373800,$106.16 B
+93,MMC,Marsh McLennan,Financials,New York City,New York,2024-05-17,210,209,-0.08,1119900,$103.46 B
+94,ADP,Automatic Data Processing,Industrials,Roseland,New Jersey,2024-05-17,250,252,0.91,1291500,$103.28 B
+95,PLD,Prologis,Real Estate,San Francisco,California,2024-05-17,111,111,0.33,3260600,$103.23 B
+96,PANW,Palo Alto Networks,Information Technology,Santa Clara,California,2024-05-17,317,317,0.27,3410000,$102.70 B
+97,KLAC,KLA Corporation,Information Technology,Milpitas,California,2024-05-17,756,747,-1.16,585900,$100.67 B
+98,ANET,Arista Networks,Information Technology,Santa Clara,California,2024-05-17,324,319,-1.32,1663700,$100.24 B
+99,CI,Cigna,Health Care,Bloomfield,Connecticut,2024-05-17,338,338,0.0,2010200,$96.22 B
+100,MDLZ,Mondelez International,Consumer Staples,Chicago,Illinois,2024-05-17,71,71,-0.92,5827800,$95.55 B
+101,ABNB,Airbnb,Consumer Discretionary,San Francisco,California,2024-05-17,146,145,-0.78,3270700,$92.47 B
+102,AMT,American Tower,Real Estate,Boston,Massachusetts,2024-05-17,195,194,-0.54,2157300,$90.83 B
+103,FI,Fiserv,Financials,Brookfield,Wisconsin,2024-05-17,153,152,-0.51,3094000,$89.91 B
+104,BMY,Bristol Myers Squibb,Health Care,New York City,New York,2024-05-17,44,44,-0.61,15785300,$89.25 B
+105,CMG,Chipotle Mexican Grill,Consumer Discretionary,Newport Beach,California,2024-05-17,3145,3213,2.17,264100,$88.26 B
+106,SBUX,Starbucks,Consumer Discretionary,Seattle,Washington,2024-05-17,75,77,3.43,14414800,$88.18 B
+107,SO,Southern Company,Utilities,Atlanta,Georgia,2024-05-17,78,79,1.11,4833700,$86.97 B
+108,SNPS,Synopsys,Information Technology,Sunnyvale,California,2024-05-17,571,566,-0.77,560900,$86.45 B
+109,HCA,HCA Healthcare,Health Care,Nashville,Tennessee,2024-05-17,323,322,-0.23,736900,$84.56 B
+110,WM,Waste Management,Industrials,Houston,Texas,2024-05-17,212,210,-0.96,2054800,$84.40 B
+111,GILD,Gilead Sciences,Health Care,Foster City,California,2024-05-17,67,67,-0.15,3579000,$84.37 B
+112,GD,General Dynamics,Industrials,Falls Church,Virginia,2024-05-17,296,299,0.82,894200,$82.04 B
+113,DUK,Duke Energy,Utilities,Charlotte,North Carolina,2024-05-17,103,103,0.73,3694000,$80.18 B
+114,ZTS,Zoetis,Health Care,Parsippany,New Jersey,2024-05-17,174,174,0.01,1999500,$79.42 B
+115,ICE,Intercontinental Exchange,Financials,Atlanta,Georgia,2024-05-17,137,138,0.43,2060700,$79.38 B
+116,APH,Amphenol,Information Technology,Wallingford,Connecticut,2024-05-17,133,131,-0.82,4506300,$79.23 B
+117,SHW,Sherwin-Williams,Materials,Cleveland,Ohio,2024-05-17,315,312,-1.1,968600,$79.21 B
+118,MO,Altria,Consumer Staples,Richmond,Virginia,2024-05-17,46,46,0.07,9241300,$79.15 B
+119,CDNS,Cadence Design Systems,Information Technology,San Jose,California,2024-05-17,290,288,-0.41,895800,$78.60 B
+120,FCX,Freeport-McMoRan,Materials,Phoenix,Arizona,2024-05-17,52,54,2.84,17933700,$77.90 B
+121,CL,Colgate-Palmolive,Consumer Staples,New York City,New York,2024-05-17,94,94,-0.43,4135200,$77.23 B
+122,CME,CME Group,Financials,Chicago,Illinois,2024-05-17,214,213,-0.55,1465100,$76.74 B
+123,EQIX,Equinix,Real Estate,Redwood City,California,2024-05-17,800,799,-0.12,499400,$75.93 B
+124,MCO,Moody's Corporation,Financials,New York City,New York,2024-05-17,413,413,0.05,863100,$75.59 B
+125,ITW,Illinois Tool Works,Industrials,Glenview,Illinois,2024-05-17,250,250,0.15,961800,$74.78 B
+126,EOG,EOG Resources,Energy,Houston,Texas,2024-05-17,128,129,0.9,2340100,$74.68 B
+127,TT,Trane Technologies,Industrials,Dublin,Ireland,2024-05-17,326,328,0.63,908400,$74.39 B
+128,TGT,Target Corporation,Consumer Staples,Minneapolis,Minnesota,2024-05-17,160,160,-0.03,4004100,$74.08 B
+129,MCK,McKesson,Health Care,Irving,Texas,2024-05-17,559,564,0.91,575700,$73.38 B
+130,CVS,CVS Health,Health Care,Woonsocket,Rhode Island,2024-05-17,57,57,0.05,9605400,$72.41 B
+131,TDG,TransDigm Group,Industrials,Cleveland,Ohio,2024-05-17,1296,1291,-0.32,208500,$72.30 B
+132,CTAS,Cintas,Industrials,Mason,Ohio,2024-05-17,690,692,0.26,301500,$70.23 B
+133,PH,Parker Hannifin,Industrials,Cleveland,Ohio,2024-05-17,545,545,-0.16,823300,$70.07 B
+134,NOC,Northrop Grumman,Industrials,West Falls Church,Virginia,2024-05-17,471,470,-0.35,966700,$69.66 B
+135,SLB,Schlumberger,Energy,Houston,Texas,2024-05-17,48,48,-0.23,5534400,$69.45 B
+136,NXPI,NXP Semiconductors,Information Technology,Eindhoven,Netherlands,2024-05-17,269,267,-0.74,1344300,$68.45 B
+137,BDX,Becton Dickinson,Health Care,Franklin Lakes,New Jersey,2024-05-17,237,236,-0.33,1785000,$68.29 B
+138,MAR,Marriott International,Consumer Discretionary,Bethesda,Maryland,2024-05-17,238,237,-0.51,1217000,$67.90 B
+139,PYPL,PayPal,Financials,San Jose,California,2024-05-17,64,64,0.62,8184300,$67.45 B
+140,CEG,Constellation Energy,Utilities,Baltimore,Maryland,2024-05-17,216,213,-1.5,2754700,$67.18 B
+141,ECL,Ecolab,Materials,Saint Paul,Minnesota,2024-05-17,233,233,0.03,785100,$66.73 B
+142,CSX,CSX,Industrials,Jacksonville,Florida,2024-05-17,33,33,-1.18,8218400,$65.52 B
+143,USB,U.S. Bank,Financials,Minneapolis,Minnesota,2024-05-17,41,41,-1.26,11358700,$64.65 B
+144,EMR,Emerson Electric,Industrials,Ferguson,Missouri,2024-05-17,113,112,-0.44,1619700,$64.58 B
+145,PNC,PNC Financial Services,Financials,Pittsburgh,Pennsylvania,2024-05-17,162,160,-1.06,1075100,$63.80 B
+146,AON,Aon,Financials,London,UK,2024-05-17,293,292,-0.25,1498200,$63.59 B
+147,FDX,FedEx,Industrials,Memphis,Tennessee,2024-05-17,260,257,-1.09,1419300,$63.30 B
+148,MPC,Marathon Petroleum,Energy,Findlay,Ohio,2024-05-17,176,179,2.05,3125100,$63.30 B
+149,PSX,Phillips 66,Energy,Houston,Texas,2024-05-17,145,147,1.09,1880600,$62.35 B
+150,MSI,Motorola Solutions,Information Technology,Chicago,Illinois,2024-05-17,369,367,-0.48,423900,$61.34 B
+151,WELL,Welltower,Real Estate,Toledo,Ohio,2024-05-17,101,101,-0.22,1913200,$60.56 B
+152,ORLY,O'Reilly Auto Parts,Consumer Discretionary,Springfield,Missouri,2024-05-17,1005,1012,0.6,401900,$59.60 B
+153,RSG,Republic Services,Industrials,Phoenix,Arizona,2024-05-17,188,188,0.08,711700,$59.26 B
+154,CARR,Carrier Global,Industrials,Palm Beach Gardens,Florida,2024-05-17,65,65,-0.02,2380600,$58.77 B
+155,APD,Air Products and Chemicals,Materials,Allentown,Pennsylvania,2024-05-17,258,262,1.82,2877900,$58.40 B
+156,MMM,3M,Industrials,Saint Paul,Minnesota,2024-05-17,105,105,0.05,5395700,$58.25 B
+157,ROP,Roper Technologies,Information Technology,Sarasota,Florida,2024-05-17,538,541,0.57,787900,$58.01 B
+158,MNST,Monster Beverage,Consumer Staples,Corona,California,2024-05-17,53,54,0.33,5243000,$56.72 B
+159,AJG,Arthur J. Gallagher & Co.,Financials,Rolling Meadows,Illinois,2024-05-17,257,257,0.15,708100,$56.31 B
+160,OXY,Occidental Petroleum,Energy,Houston,Texas,2024-05-17,62,63,0.68,6598200,$56.22 B
+161,SPG,Simon Property Group,Real Estate,Indianapolis,Indiana,2024-05-17,149,148,-0.57,1258400,$55.76 B
+162,PCAR,Paccar,Industrials,Bellevue,Washington,2024-05-17,106,106,-0.11,1727100,$55.56 B
+163,VLO,Valero Energy,Energy,San Antonio,Texas,2024-05-17,159,166,4.26,4097900,$54.71 B
+164,COF,Capital One,Financials,Tysons Corner,Virginia,2024-05-17,142,141,-0.24,1380000,$54.16 B
+165,EW,Edwards Lifesciences,Health Care,Irvine,California,2024-05-17,90,89,-1.26,2063400,$53.72 B
+166,TFC,Truist,Financials,Charlotte,North Carolina,2024-05-17,40,39,-1.33,5698600,$53.48 B
+167,AIG,American International Group,Financials,New York City,New York,2024-05-17,79,80,1.91,6778800,$53.45 B
+168,MET,MetLife,Financials,New York City,New York,2024-05-17,73,74,0.62,2420000,$52.78 B
+169,CPRT,Copart,Industrials,Dallas,Texas,2024-05-17,53,54,1.72,6566300,$52.40 B
+170,NSC,Norfolk Southern Railway,Industrials,Atlanta,Georgia,2024-05-17,233,231,-0.84,1310800,$52.29 B
+171,DXCM,Dexcom,Health Care,San Diego,California,2024-05-17,131,131,-0.27,2299300,$52.24 B
+172,GM,General Motors,Consumer Discretionary,Detroit,Michigan,2024-05-17,46,45,-0.67,11238800,$52.21 B
+173,SMCI,Supermicro,Information Technology,San Jose,California,2024-05-17,925,887,-4.03,5147300,$51.99 B
+174,HLT,Hilton Worldwide,Consumer Discretionary,Tysons Corner,Virginia,2024-05-17,206,204,-1.12,896400,$51.06 B
+175,MCHP,Microchip Technology,Information Technology,Chandler,Arizona,2024-05-17,94,94,-0.24,3609600,$50.97 B
+176,MRNA,Moderna,Health Care,Cambridge,Massachusetts,2024-05-17,132,132,0.29,2704100,$50.93 B
+177,PSA,Public Storage,Real Estate,Glendale,California,2024-05-17,288,288,0.02,764100,$50.73 B
+178,AZO,AutoZone,Consumer Discretionary,Memphis,Tennessee,2024-05-17,2933,2917,-0.56,191000,$50.48 B
+179,NEM,Newmont,Materials,Denver,Colorado,2024-05-17,43,43,0.55,10152600,$50.44 B
+180,TRV,Travelers Companies (The),Financials,New York City,New York,2024-05-17,220,219,-0.27,1348900,$50.31 B
+181,WMB,Williams Companies,Energy,Tulsa,Oklahoma,2024-05-17,41,41,0.36,6116900,$50.30 B
+182,AFL,Aflac,Financials,Columbus,Georgia,2024-05-17,87,88,0.97,2300200,$50.21 B
+183,DHI,DR Horton,Consumer Discretionary,Arlington,Texas,2024-05-17,152,151,-0.53,1490500,$49.89 B
+184,SRE,Sempra Energy,Utilities,San Diego,California,2024-05-17,77,78,0.44,2587100,$49.47 B
+185,AEP,American Electric Power,Utilities,Columbus,Ohio,2024-05-17,92,92,0.44,2908000,$48.85 B
+186,F,Ford Motor Company,Consumer Discretionary,Dearborn,Michigan,2024-05-17,12,12,-0.73,23992600,$48.80 B
+187,HES,Hess Corporation,Energy,New York City,New York,2024-05-17,157,158,0.69,2278400,$48.72 B
+188,PCG,PG&E Corporation,Utilities,San Francisco,California,2024-05-17,18,18,0.05,12617100,$48.64 B
+189,EL,Estée Lauder Companies (The),Consumer Staples,New York City,New York,2024-05-17,138,134,-2.42,2907400,$48.32 B
+190,OKE,ONEOK,Energy,Tulsa,Oklahoma,2024-05-17,82,82,0.01,2176100,$48.23 B
+191,O,Realty Income,Real Estate,San Diego,California,2024-05-17,55,55,-0.29,4270100,$48.01 B
+192,DLR,Digital Realty,Real Estate,Austin,Texas,2024-05-17,145,143,-1.11,1556000,$47.62 B
+193,ADSK,Autodesk,Information Technology,San Francisco,California,2024-05-17,220,221,0.14,1568000,$47.32 B
+194,FTNT,Fortinet,Information Technology,Sunnyvale,California,2024-05-17,61,61,0.64,2798800,$46.93 B
+195,STZ,Constellation Brands,Consumer Staples,Victor,New York,2024-05-17,255,255,-0.04,1415800,$46.74 B
+196,JCI,Johnson Controls,Industrials,Cork,Ireland,2024-05-17,68,69,1.2,5002700,$46.50 B
+197,GWW,W. W. Grainger,Industrials,Lake Forest,Illinois,2024-05-17,949,945,-0.36,197100,$46.46 B
+198,TEL,TE Connectivity,Information Technology,Schaffhausen,Switzerland,2024-05-17,151,151,-0.37,1029300,$46.24 B
+199,URI,United Rentals,Industrials,Stamford,Connecticut,2024-05-17,689,685,-0.52,362900,$46.06 B
+200,LEN,Lennar,Consumer Discretionary,Miami,Florida,2024-05-17,165,165,0.13,1122700,$45.75 B
+201,KDP,Keurig Dr Pepper,Consumer Staples,Burlington,Massachusetts,2024-05-17,34,33,-0.94,6118900,$45.75 B
+202,PAYX,Paychex,Industrials,Penfield,New York,2024-05-17,125,125,0.44,2414700,$45.23 B
+203,KMB,Kimberly-Clark,Consumer Staples,Irving,Texas,2024-05-17,134,134,-0.33,1418800,$45.22 B
+204,A,Agilent Technologies,Health Care,Santa Clara,California,2024-05-17,154,154,-0.18,1830500,$45.20 B
+205,IDXX,Idexx Laboratories,Health Care,Westbrook,Maine,2024-05-17,540,543,0.46,446000,$44.88 B
+206,D,Dominion Energy,Utilities,Richmond,Virginia,2024-05-17,53,53,0.21,2897300,$44.84 B
+207,ALL,Allstate,Financials,Northbrook,Illinois,2024-05-17,170,169,-0.61,988200,$44.74 B
+208,CCI,Crown Castle,Real Estate,Houston,Texas,2024-05-17,104,102,-1.47,3284900,$44.71 B
+209,GEV,GE Vernova,Industrials,Cambridge,Massachusetts,2024-05-17,166,162,-2.55,1928700,$44.57 B
+210,BK,Bank of New York Mellon,Financials,New York City,New York,2024-05-17,59,59,0.75,2903200,$44.50 B
+211,ROST,Ross Stores,Consumer Discretionary,Dublin,California,2024-05-17,134,132,-1.25,3604600,$44.37 B
+212,COR,Cencora,Health Care,Conshohocken,Pennsylvania,2024-05-17,222,222,-0.28,1001900,$44.30 B
+213,KMI,Kinder Morgan,Energy,Houston,Texas,2024-05-17,19,19,0.36,11990100,$43.72 B
+214,KHC,Kraft Heinz,Consumer Staples,Chicago,"Illinois; Pittsburgh, Pennsylvania",2024-05-17,35,36,0.14,6114300,$43.71 B
+215,FIS,Fidelity National Information Services,Financials,Jacksonville,Florida,2024-05-17,78,78,0.46,4670400,$43.59 B
+216,PRU,Prudential Financial,Financials,Newark,New Jersey,2024-05-17,120,121,0.6,1691300,$43.56 B
+217,AMP,Ameriprise Financial,Financials,Minneapolis,Minnesota,2024-05-17,438,434,-0.98,931800,$43.12 B
+218,HUM,Humana,Health Care,Louisville,Kentucky,2024-05-17,355,356,0.17,1435600,$42.92 B
+219,LHX,L3Harris,Industrials,Melbourne,Florida,2024-05-17,222,223,0.38,489600,$42.41 B
+220,LULU,Lululemon Athletica,Consumer Discretionary,Vancouver,Canada,2024-05-17,338,334,-1.12,2582600,$42.21 B
+221,IQV,IQVIA,Health Care,Durham,North Carolina,2024-05-17,235,231,-1.63,715300,$42.12 B
+222,HSY,Hershey's,Consumer Staples,Hershey,Pennsylvania,2024-05-17,209,207,-1.13,1180700,$41.87 B
+223,CNC,Centene Corporation,Health Care,St. Louis,Missouri,2024-05-17,77,78,0.59,2640900,$41.66 B
+224,DOW,Dow Inc.,Materials,Midland,Michigan,2024-05-17,59,59,0.22,2668700,$41.62 B
+225,NUE,Nucor,Materials,Charlotte,North Carolina,2024-05-17,174,172,-1.53,1245000,$41.27 B
+226,GIS,General Mills,Consumer Staples,Golden Valley,Minnesota,2024-05-17,71,71,-0.29,2753000,$40.22 B
+227,MSCI,MSCI,Financials,New York City,New York,2024-05-17,500,505,0.89,875000,$40.03 B
+228,YUM,Yum! Brands,Consumer Discretionary,Louisville,Kentucky,2024-05-17,141,141,0.11,1346400,$39.90 B
+229,ODFL,Old Dominion,Industrials,Thomasville,North Carolina,2024-05-17,182,183,0.49,2175200,$39.78 B
+230,KR,Kroger,Consumer Staples,Cincinnati,Ohio,2024-05-17,54,54,-0.57,10570800,$39.44 B
+231,CTVA,Corteva,Materials,Indianapolis,Indiana,2024-05-17,56,56,0.44,4645600,$39.34 B
+232,CHTR,Charter Communications,Communication Services,Stamford,Connecticut,2024-05-17,277,273,-1.79,749800,$39.32 B
+233,KVUE,Kenvue,Consumer Staples,Skillman,New Jersey,2024-05-17,20,20,-1.21,30987800,$39.20 B
+234,OTIS,Otis Worldwide,Industrials,Farmington,Connecticut,2024-05-17,96,96,-0.01,1627100,$39.13 B
+235,CMI,Cummins,Industrials,Columbus,Indiana,2024-05-17,288,285,-1.05,1060300,$39.06 B
+236,PWR,Quanta Services,Industrials,Houston,Texas,2024-05-17,266,264,-0.91,795500,$38.70 B
+237,AME,Ametek,Industrials,Berwyn,Pennsylvania,2024-05-17,168,166,-0.91,1678600,$38.61 B
+238,EXC,Exelon,Utilities,Chicago,Illinois,2024-05-17,38,38,-0.03,6088400,$38.58 B
+239,FAST,Fastenal,Industrials,Winona,Minnesota,2024-05-17,66,66,-0.3,2835500,$38.03 B
+240,ACGL,Arch Capital Group,Financials,Hamilton,Bermuda,2024-05-17,99,100,1.73,1484800,$37.92 B
+241,SYY,Sysco,Consumer Staples,Houston,Texas,2024-05-17,76,75,-0.45,3781600,$37.80 B
+242,IR,Ingersoll Rand,Industrials,Davidson,North Carolina,2024-05-17,91,92,0.72,3160700,$37.38 B
+243,GEHC,GE HealthCare,Health Care,Chicago,Illinois,2024-05-17,81,81,1.06,1303800,$37.37 B
+244,PEG,Public Service Enterprise Group,Utilities,Newark,New Jersey,2024-05-17,74,74,0.2,1906700,$37.13 B
+245,RCL,Royal Caribbean Group,Consumer Discretionary,Miami,Florida,2024-05-17,143,141,-0.87,1286300,$36.52 B
+246,NDAQ,"Nasdaq, Inc.",Financials,New York City,New York,2024-05-17,62,62,0.82,2357500,$36.18 B
+247,VRSK,Verisk,Industrials,Jersey City,New Jersey,2024-05-17,251,251,0.25,778900,$35.90 B
+248,MLM,Martin Marietta Materials,Materials,Raleigh,North Carolina,2024-05-17,583,580,-0.47,407100,$35.80 B
+249,CSGP,CoStar Group,Real Estate,Washington,D.C.,2024-05-17,88,87,-0.71,1461300,$35.73 B
+250,MPWR,Monolithic Power Systems,Information Technology,Kirkland,Washington,2024-05-17,735,730,-0.68,258900,$35.53 B
+251,FANG,Diamondback Energy,Energy,Midland,Texas,2024-05-17,195,197,1.18,952900,$35.25 B
+252,LVS,Las Vegas Sands,Consumer Discretionary,Las Vegas,Nevada,2024-05-17,46,47,0.92,5968000,$35.04 B
+253,IT,Gartner,Information Technology,Stamford,Connecticut,2024-05-17,450,450,0.01,345800,$34.95 B
+254,FICO,Fair Isaac,Information Technology,Bozeman,Montana,2024-05-17,1415,1411,-0.32,246600,$34.88 B
+255,XYL,Xylem Inc.,Industrials,White Plains,New York,2024-05-17,143,143,0.08,2266400,$34.75 B
+256,VMC,Vulcan Materials Company,Materials,Birmingham,Alabama,2024-05-17,261,259,-1.1,498300,$34.27 B
+257,CTSH,Cognizant,Information Technology,Teaneck,New Jersey,2024-05-17,69,68,-1.74,4384000,$34.19 B
+258,EA,Electronic Arts,Communication Services,Redwood City,California,2024-05-17,128,127,-0.3,3205600,$34.15 B
+259,DAL,Delta Air Lines,Industrials,Atlanta,Georgia,2024-05-17,52,52,0.32,4448800,$34.01 B
+260,HWM,Howmet Aerospace,Industrials,Pittsburgh,Pennsylvania,2024-05-17,83,82,-0.1,1332700,$33.85 B
+261,BKR,Baker Hughes,Energy,Houston,Texas,2024-05-17,33,33,1.21,5954600,$33.61 B
+262,ED,Consolidated Edison,Utilities,New York City,New York,2024-05-17,97,97,0.06,1570700,$33.58 B
+263,BIIB,Biogen,Health Care,Cambridge,Massachusetts,2024-05-17,229,230,0.5,985100,$33.57 B
+264,HAL,Halliburton,Energy,Houston,Texas,2024-05-17,37,37,0.5,3638600,$33.55 B
+265,EXR,Extra Space Storage,Real Estate,Salt Lake City,Utah,2024-05-17,152,151,-0.34,566900,$33.49 B
+266,DD,DuPont,Materials,Wilmington,Delaware,2024-05-17,79,79,0.48,2772900,$33.41 B
+267,LYB,LyondellBasell,Materials,Rotterdam,Netherlands,2024-05-17,100,100,0.29,1280400,$32.86 B
+268,GRMN,Garmin,Consumer Discretionary,Schaffhausen,Switzerland,2024-05-17,170,170,0.21,525800,$32.83 B
+269,VST,Vistra,Utilities,Irving,Texas,2024-05-17,94,94,0.04,6062900,$32.69 B
+270,MTD,Mettler Toledo,Health Care,Columbus,Ohio,2024-05-17,1535,1522,-0.85,142200,$32.52 B
+271,RMD,ResMed,Health Care,San Diego,California,2024-05-17,219,218,-0.57,450600,$32.11 B
+272,VICI,Vici Properties,Real Estate,New York City,New York,2024-05-17,30,30,-0.23,7098700,$31.69 B
+273,PPG,PPG Industries,Materials,Pittsburgh,Pennsylvania,2024-05-17,135,134,-0.65,1336900,$31.53 B
+274,ON,ON Semiconductor,Information Technology,Phoenix,Arizona,2024-05-17,73,73,-0.35,3843400,$31.48 B
+275,DFS,Discover Financial,Financials,Riverwoods,Illinois,2024-05-17,125,125,0.02,1084100,$31.43 B
+276,DVN,Devon Energy,Energy,Oklahoma City,Oklahoma,2024-05-17,49,49,0.4,4688300,$31.36 B
+277,DG,Dollar General,Consumer Staples,Goodlettsville,Tennessee,2024-05-17,145,142,-2.23,2728500,$31.22 B
+278,XEL,Xcel Energy,Utilities,Minneapolis,Minnesota,2024-05-17,55,55,-0.23,4092800,$30.85 B
+279,TSCO,Tractor Supply,Consumer Discretionary,Brentwood,Tennessee,2024-05-17,276,285,3.16,2180900,$30.80 B
+280,ROK,Rockwell Automation,Industrials,Milwaukee,Wisconsin,2024-05-17,273,269,-1.5,516500,$30.75 B
+281,EFX,Equifax,Industrials,Atlanta,Georgia,2024-05-17,250,248,-0.66,586500,$30.75 B
+282,HPQ,HP Inc.,Information Technology,Palo Alto,California,2024-05-17,31,31,-0.13,4617900,$30.52 B
+283,HIG,Hartford (The),Financials,Hartford,Connecticut,2024-05-17,102,103,0.37,3411800,$30.51 B
+284,ADM,Archer-Daniels-Midland,Consumer Staples,Chicago,Illinois,2024-05-17,61,61,-0.24,2842400,$30.47 B
+285,GLW,Corning Inc.,Information Technology,Corning,New York,2024-05-17,35,35,0.0,3780800,$30.28 B
+286,CDW,CDW,Information Technology,Lincolnshire,Illinois,2024-05-17,224,223,-0.2,1286600,$30.06 B
+287,WAB,Wabtec,Industrials,Pittsburgh,Pennsylvania,2024-05-17,166,168,0.88,1322100,$29.69 B
+288,EIX,Edison International,Utilities,Rosemead,California,2024-05-17,76,76,0.18,1294300,$29.36 B
+289,ANSS,Ansys,Information Technology,Canonsburg,Pennsylvania,2024-05-17,328,327,-0.09,400700,$28.61 B
+290,AVB,AvalonBay Communities,Real Estate,Arlington,Virginia,2024-05-17,198,198,-0.04,442600,$28.28 B
+291,CBRE,CBRE Group,Real Estate,Dallas,Texas,2024-05-17,91,91,-0.65,1469800,$28.00 B
+292,GPN,Global Payments,Financials,Atlanta,Georgia,2024-05-17,109,109,-0.6,1614600,$27.86 B
+293,KEYS,Keysight,Information Technology,Santa Rosa,California,2024-05-17,157,157,-0.03,937000,$27.46 B
+294,FTV,Fortive,Industrials,Everett,Washington,2024-05-17,77,77,-0.66,1042300,$27.16 B
+295,WEC,WEC Energy Group,Utilities,Milwaukee,Wisconsin,2024-05-17,85,85,-0.12,1593500,$27.00 B
+296,FITB,Fifth Third Bank,Financials,Cincinnati,Ohio,2024-05-17,38,38,-0.54,2762600,$26.38 B
+297,WTW,Willis Towers Watson,Financials,London,United Kingdom,2024-05-17,257,257,-0.04,293000,$26.32 B
+298,RJF,Raymond James,Financials,St. Petersburg,Florida,2024-05-17,126,126,0.13,745400,$26.20 B
+299,TRGP,Targa Resources,Energy,Houston,Texas,2024-05-17,116,117,0.79,1081600,$26.09 B
+300,EBAY,eBay,Consumer Discretionary,San Jose,California,2024-05-17,52,51,-2.2,4605400,$26.08 B
+301,TROW,T. Rowe Price,Financials,Baltimore,Maryland,2024-05-17,116,116,0.51,1093100,$26.07 B
+302,AWK,American Water Works,Utilities,Camden,New Jersey,2024-05-17,134,133,-0.28,924200,$26.06 B
+303,WST,West Pharmaceutical Services,Health Care,Exton,Pennsylvania,2024-05-17,354,355,0.19,434700,$26.03 B
+304,CHD,Church & Dwight,Consumer Staples,Ewing,New Jersey,2024-05-17,106,106,-0.38,829700,$26.01 B
+305,MTB,M&T Bank,Financials,Buffalo,New York,2024-05-17,154,153,-0.5,764100,$25.66 B
+306,BRO,Brown & Brown,Financials,Daytona Beach,Florida,2024-05-17,89,89,-0.02,1080000,$25.62 B
+307,DLTR,Dollar Tree,Consumer Staples,Chesapeake,Virginia,2024-05-17,120,117,-2.89,2359600,$25.60 B
+308,IFF,International Flavors & Fragrances,Materials,New York City,New York,2024-05-17,98,99,1.55,1842500,$25.46 B
+309,EQR,Equity Residential,Real Estate,Chicago,Illinois,2024-05-17,67,67,-0.33,1606200,$25.44 B
+310,DOV,Dover Corporation,Industrials,Downers Grove,Illinois,2024-05-17,185,184,-0.49,1688700,$25.30 B
+311,TTWO,Take-Two Interactive,Communication Services,New York City,New York,2024-05-17,151,147,-2.51,5609700,$25.25 B
+312,PHM,PulteGroup,Consumer Discretionary,Atlanta,Georgia,2024-05-17,119,119,0.0,1319800,$25.05 B
+313,ZBH,Zimmer Biomet,Health Care,Warsaw,Indiana,2024-05-17,121,120,-0.92,1181200,$24.72 B
+314,VLTO,Veralto,Industrials,Waltham,Massachusetts,2024-05-17,98,98,0.31,1319400,$24.34 B
+315,ETR,Entergy,Utilities,New Orleans,Louisiana,2024-05-17,113,113,-0.36,2397300,$24.14 B
+316,CAH,Cardinal Health,Health Care,Dublin,Ohio,2024-05-17,99,99,-0.19,1308000,$24.13 B
+317,DTE,DTE Energy,Utilities,Detroit,Michigan,2024-05-17,116,116,-0.29,791500,$24.13 B
+318,BR,Broadridge Financial Solutions,Industrials,Lake Success,New York,2024-05-17,204,203,-0.62,544900,$24.05 B
+319,NVR,"NVR, Inc.",Consumer Discretionary,Reston,Virginia,2024-05-17,7757,7669,-1.14,14400,$24.02 B
+320,IRM,Iron Mountain,Real Estate,Boston,Massachusetts,2024-05-17,82,81,-0.84,1735900,$23.98 B
+321,WDC,Western Digital,Information Technology,San Jose,California,2024-05-17,73,72,-1.85,6194500,$23.54 B
+322,STT,State Street Corporation,Financials,Boston,Massachusetts,2024-05-17,77,78,0.04,1815000,$23.50 B
+323,HPE,Hewlett Packard Enterprise,Information Technology,Houston,Texas,2024-05-17,18,17,-0.83,9132300,$23.21 B
+324,BF-B,Brown–Forman,Consumer Staples,Louisville,Kentucky,2024-05-17,48,48,-0.59,1194300,$23.05 B
+325,FE,FirstEnergy,Utilities,Akron,Ohio,2024-05-17,40,40,-0.2,2516400,$23.04 B
+326,STE,Steris,Health Care,Dublin,Ireland,2024-05-17,231,232,0.61,559400,$22.99 B
+327,DECK,Deckers Brands,Consumer Discretionary,Goleta,California,2024-05-17,889,888,-0.15,319600,$22.81 B
+328,NTAP,NetApp,Information Technology,San Jose,California,2024-05-17,110,110,-0.08,2257700,$22.80 B
+329,WY,Weyerhaeuser,Real Estate,Seattle,Washington,2024-05-17,31,31,0.0,4469400,$22.72 B
+330,LYV,Live Nation Entertainment,Communication Services,Beverly Hills,California,2024-05-17,96,96,-0.06,1542700,$22.36 B
+331,ROL,"Rollins, Inc.",Industrials,Atlanta,Georgia,2024-05-17,46,46,-1.79,1110200,$22.35 B
+332,APTV,Aptiv,Consumer Discretionary,Dublin,Ireland,2024-05-17,82,82,-0.41,1805400,$22.34 B
+333,PTC,PTC,Information Technology,Boston,Massachusetts,2024-05-17,185,184,-0.42,1222400,$22.06 B
+334,PPL,PPL Corporation,Utilities,Allentown,Pennsylvania,2024-05-17,29,29,-0.2,4971500,$21.83 B
+335,AXON,Axon Enterprise,Industrials,Scottsdale,Arizona,2024-05-17,292,288,-1.25,509800,$21.79 B
+336,BALL,Ball Corporation,Materials,Broomfield,Colorado,2024-05-17,70,70,-0.3,1111400,$21.76 B
+337,ARE,Alexandria Real Estate Equities,Real Estate,Pasadena,California,2024-05-17,124,124,-0.34,486600,$21.72 B
+338,INVH,Invitation Homes,Real Estate,Dallas,Texas,2024-05-17,35,35,0.28,3208900,$21.71 B
+339,ES,Eversource,Utilities,Hartford,Connecticut,2024-05-17,61,60,-0.47,1921700,$21.47 B
+340,TSN,Tyson Foods,Consumer Staples,Springdale,Arkansas,2024-05-17,60,60,-1.13,2253100,$21.45 B
+341,SBAC,SBA Communications,Real Estate,Boca Raton,Florida,2024-05-17,202,199,-1.66,847700,$21.42 B
+342,GPC,Genuine Parts Company,Consumer Discretionary,Atlanta,Georgia,2024-05-17,154,152,-1.26,581800,$21.30 B
+343,FSLR,First Solar,Information Technology,Tempe,Arizona,2024-05-17,194,197,1.81,1707600,$21.15 B
+344,WAT,Waters Corporation,Health Care,Milford,Massachusetts,2024-05-17,360,355,-1.27,387800,$21.11 B
+345,HUBB,Hubbell Incorporated,Industrials,Shelton,Connecticut,2024-05-17,393,392,-0.3,373623,$21.08 B
+346,K,Kellanova,Consumer Staples,Chicago,Illinois,2024-05-17,62,61,-1.11,2249300,$21.05 B
+347,STLD,Steel Dynamics,Materials,Fort Wayne,Indiana,2024-05-17,135,133,-1.09,831900,$21.04 B
+348,CTRA,Coterra,Energy,Houston,Texas,2024-05-17,28,28,0.28,4380800,$20.98 B
+349,TYL,Tyler Technologies,Information Technology,Plano,Texas,2024-05-17,489,489,-0.16,110500,$20.77 B
+350,TER,Teradyne,Information Technology,North Reading,Massachusetts,2024-05-17,132,131,-0.51,1968100,$20.59 B
+351,HBAN,Huntington Bancshares,Financials,Columbus,"Ohio; Detroit, Michigan",2024-05-17,14,14,-0.07,10345900,$20.59 B
+352,ALGN,Align Technology,Health Care,Tempe,Arizona,2024-05-17,274,271,-0.91,589600,$20.44 B
+353,BLDR,Builders FirstSource,Industrials,Irving,Texas,2024-05-17,166,167,0.55,2026400,$20.39 B
+354,MOH,Molina Healthcare,Health Care,Long Beach,California,2024-05-17,346,347,0.18,306100,$20.36 B
+355,WRB,W. R. Berkley Corporation,Financials,Greenwich,Connecticut,2024-05-17,78,79,0.62,795600,$20.28 B
+356,LDOS,Leidos,Industrials,Reston,Virginia,2024-05-17,147,148,0.51,660400,$20.10 B
+357,STX,Seagate Technology,Information Technology,Dublin,Ireland,2024-05-17,98,95,-3.28,2653400,$20.01 B
+358,PFG,Principal Financial Group,Financials,Des Moines,Iowa,2024-05-17,84,85,0.56,601100,$19.95 B
+359,AEE,Ameren,Utilities,St. Louis,Missouri,2024-05-17,74,74,-0.24,1826300,$19.93 B
+360,HRL,Hormel Foods,Consumer Staples,Austin,Minnesota,2024-05-17,36,36,0.61,2887600,$19.89 B
+361,MKC,McCormick & Company,Consumer Staples,Hunt Valley,Maryland,2024-05-17,74,74,-0.91,1279500,$19.87 B
+362,VTR,Ventas,Real Estate,Chicago,Illinois,2024-05-17,48,48,0.06,1367000,$19.80 B
+363,WBD,Warner Bros. Discovery,Communication Services,New York City,New York,2024-05-17,8,8,-2.07,21124900,$19.75 B
+364,CCL,Carnival,Consumer Discretionary,Miami,Florida,2024-05-17,14,15,0.07,22762300,$19.65 B
+365,CPAY,Corpay,Financials,Atlanta,Georgia,2024-05-17,280,279,-0.37,477200,$19.64 B
+366,COO,CooperCompanies,Health Care,San Ramon,California,2024-05-17,98,97,-0.77,547000,$19.34 B
+367,CBOE,Cboe Global Markets,Financials,Chicago,Illinois,2024-05-17,183,183,0.21,553500,$19.30 B
+368,ULTA,Ulta Beauty,Consumer Discretionary,Bolingbrook,Illinois,2024-05-17,402,399,-0.7,528500,$19.29 B
+369,TDY,Teledyne Technologies,Information Technology,Thousand Oaks,California,2024-05-17,403,406,0.71,246900,$19.27 B
+370,CNP,CenterPoint Energy,Utilities,Houston,Texas,2024-05-17,29,30,0.33,4755100,$19.24 B
+371,CMS,CMS Energy,Utilities,Jackson,Michigan,2024-05-17,63,63,-0.02,1639900,$18.89 B
+372,OMC,Omnicom Group,Communication Services,New York City,New York,2024-05-17,96,96,-0.89,1042700,$18.83 B
+373,CINF,Cincinnati Financial,Financials,Fairfield,Ohio,2024-05-17,119,120,0.72,463500,$18.81 B
+374,RF,Regions Financial Corporation,Financials,Birmingham,Alabama,2024-05-17,20,20,-0.44,3248400,$18.48 B
+375,DRI,Darden Restaurants,Consumer Discretionary,Orlando,Florida,2024-05-17,153,154,0.61,1191400,$18.38 B
+376,AVY,Avery Dennison,Materials,Mentor,Ohio,2024-05-17,225,226,0.52,1064100,$18.23 B
+377,EQT,EQT,Energy,Pittsburgh,Pennsylvania,2024-05-17,40,41,0.49,5199500,$18.18 B
+378,UAL,United Airlines Holdings,Industrials,Chicago,Illinois,2024-05-17,55,54,-0.33,7153900,$18.08 B
+379,BAX,Baxter International,Health Care,Deerfield,Illinois,2024-05-17,35,35,0.2,3583400,$17.96 B
+380,ATO,Atmos Energy,Utilities,Dallas,Texas,2024-05-17,118,118,-0.09,1703600,$17.90 B
+381,DPZ,Domino's,Consumer Discretionary,Ann Arbor,Michigan,2024-05-17,514,513,-0.21,343500,$17.89 B
+382,LH,LabCorp,Health Care,Burlington,North Carolina,2024-05-17,213,210,-1.37,730900,$17.75 B
+383,ESS,Essex Property Trust,Real Estate,San Mateo,California,2024-05-17,265,266,0.13,361800,$17.70 B
+384,ILMN,Illumina,Health Care,San Diego,California,2024-05-17,113,111,-2.43,1035700,$17.69 B
+385,SYF,Synchrony Financial,Financials,Stamford,Connecticut,2024-05-17,43,43,0.27,2826900,$17.64 B
+386,HOLX,Hologic,Health Care,Marlborough,Massachusetts,2024-05-17,75,75,-0.01,1451400,$17.51 B
+387,NTRS,Northern Trust,Financials,Chicago,Illinois,2024-05-17,85,85,-0.47,1299000,$17.49 B
+388,L,Loews Corporation,Financials,New York City,New York,2024-05-17,77,77,0.17,855200,$17.21 B
+389,CE,Celanese,Materials,Irving,Texas,2024-05-17,157,157,-0.01,508200,$17.18 B
+390,NRG,NRG Energy,Utilities,Houston,Texas,2024-05-17,82,82,-0.78,2913000,$17.16 B
+391,FDS,FactSet,Financials,Norwalk,Connecticut,2024-05-17,447,448,0.27,453300,$17.11 B
+392,J,Jacobs Solutions,Industrials,Dallas,Texas,2024-05-17,138,136,-1.14,482200,$17.08 B
+393,EG,Everest Re,Financials,Hamilton,Bermuda,2024-05-17,391,392,0.42,261200,$17.08 B
+394,JBHT,J.B. Hunt,Industrials,Lowell,Arkansas,2024-05-17,169,164,-2.93,966700,$17.01 B
+395,VRSN,Verisign,Information Technology,Dulles,Virginia,2024-05-17,170,170,-0.12,656500,$17.01 B
+396,TXT,Textron,Industrials,Providence,Rhode Island,2024-05-17,87,89,1.34,1099100,$17.00 B
+397,CFG,Citizens Financial Group,Financials,Providence,Rhode Island,2024-05-17,36,37,0.87,5027700,$16.91 B
+398,CLX,Clorox,Consumer Staples,Oakland,California,2024-05-17,137,135,-1.13,1300000,$16.84 B
+399,IEX,IDEX Corporation,Industrials,Lake Forest,Illinois,2024-05-17,223,222,-0.33,215800,$16.83 B
+400,LUV,Southwest Airlines,Industrials,Dallas,Texas,2024-05-17,28,27,-1.1,6887200,$16.67 B
+401,EXPD,Expeditors International,Industrials,Seattle,Washington,2024-05-17,117,117,0.0,865200,$16.65 B
+402,MAA,Mid-America Apartment Communities,Real Estate,Memphis,Tennessee,2024-05-17,137,137,0.26,455300,$16.52 B
+403,PKG,Packaging Corporation of America,Materials,Lake Forest,Illinois,2024-05-17,183,183,0.07,483500,$16.44 B
+404,ZBRA,Zebra Technologies,Information Technology,Lincolnshire,Illinois,2024-05-17,320,317,-0.89,222700,$16.35 B
+405,DGX,Quest Diagnostics,Health Care,Secaucus,New Jersey,2024-05-17,143,144,0.94,1422800,$16.04 B
+406,BBY,Best Buy,Consumer Discretionary,Richfield,Minnesota,2024-05-17,73,73,0.07,1603800,$15.87 B
+407,WBA,Walgreens Boots Alliance,Consumer Staples,Deerfield,Illinois,2024-05-17,18,18,-0.87,7472200,$15.68 B
+408,GEN,Gen Digital,Information Technology,Tempe,Arizona,2024-05-17,25,25,-0.48,6616700,$15.67 B
+409,ENPH,Enphase,Information Technology,Fremont,California,2024-05-17,116,114,-2.02,2236900,$15.55 B
+410,NDSN,Nordson Corporation,Industrials,Westlake,Ohio,2024-05-17,271,271,-0.07,810300,$15.54 B
+411,MAS,Masco,Industrials,Livonia,Michigan,2024-05-17,70,70,-0.45,962400,$15.45 B
+412,ALB,Albemarle Corporation,Materials,Charlotte,North Carolina,2024-05-17,129,131,1.12,2283000,$15.41 B
+413,NWSA,News Corp (Class A),Communication Services,New York City,New York,2024-05-17,26,26,-0.45,1864000,$15.13 B
+414,NWS,News Corp (Class B),Communication Services,New York City,New York,2024-05-17,27,27,0.0,321200,$15.13 B
+415,AES,AES Corporation,Utilities,Arlington,Virginia,2024-05-17,21,21,0.85,9081400,$15.12 B
+416,EXPE,Expedia Group,Consumer Discretionary,Seattle,Washington,2024-05-17,114,114,0.01,2855500,$15.10 B
+417,SWKS,Skyworks Solutions,Information Technology,Irvine,California,2024-05-17,94,93,-1.24,1572300,$15.02 B
+418,UDR,"UDR, Inc.",Real Estate,Highlands Ranch,Colorado,2024-05-17,39,39,-0.08,2139600,$14.90 B
+419,AMCR,Amcor,Materials,Warmley,"Bristol, United Kingdom",2024-05-17,10,10,-1.25,10402300,$14.84 B
+420,FOX,Fox Corporation (Class B),Communication Services,New York City,New York,2024-05-17,30,30,0.83,750400,$14.79 B
+421,FOXA,Fox Corporation (Class A),Communication Services,New York City,New York,2024-05-17,32,32,0.37,2228500,$14.79 B
+422,MRO,Marathon Oil,Energy,Houston,Texas,2024-05-17,26,26,-0.23,5646700,$14.78 B
+423,SNA,Snap-on,Industrials,Kenosha,Wisconsin,2024-05-17,276,278,0.93,279200,$14.71 B
+424,CAG,Conagra Brands,Consumer Staples,Chicago,Illinois,2024-05-17,31,30,-1.03,8246000,$14.69 B
+425,BG,Bunge Global SA,Consumer Staples,Chesterfield,Missouri,2024-05-17,104,103,-0.88,679300,$14.60 B
+426,KEY,KeyCorp,Financials,Cleveland,Ohio,2024-05-17,15,15,-0.39,6225400,$14.52 B
+427,AKAM,Akamai,Information Technology,Cambridge,Massachusetts,2024-05-17,96,95,-1.45,2379900,$14.50 B
+428,IP,International Paper,Materials,Memphis,Tennessee,2024-05-17,40,40,0.35,3675700,$14.12 B
+429,POOL,Pool Corporation,Consumer Discretionary,Covington,Louisiana,2024-05-17,369,366,-0.74,220800,$14.06 B
+430,DOC,Healthpeak,Real Estate,Denver,Colorado,2024-05-17,20,19,-0.85,3235100,$14.00 B
+431,TRMB,Trimble Inc.,Information Technology,Westminster,Colorado,2024-05-17,57,57,-1.07,1180700,$13.94 B
+432,PNR,Pentair,Industrials,Worsley,United Kingdom,2024-05-17,83,83,-0.05,802600,$13.94 B
+433,CF,CF Industries,Materials,Deerfield,Illinois,2024-05-17,77,76,-1.37,1266500,$13.93 B
+434,JBL,Jabil,Information Technology,St. Petersburg,Florida,2024-05-17,115,115,-0.69,1136700,$13.87 B
+435,SWK,Stanley Black & Decker,Industrials,New Britain,Connecticut,2024-05-17,90,90,-0.01,931100,$13.87 B
+436,CPB,Campbell Soup Company,Consumer Staples,Camden,New Jersey,2024-05-17,46,46,-0.49,1276600,$13.85 B
+437,WRK,WestRock,Materials,Atlanta,Georgia,2024-05-17,52,52,0.84,1222500,$13.67 B
+438,RVTY,Revvity,Health Care,Waltham,Massachusetts,2024-05-17,108,110,1.33,1087200,$13.60 B
+439,LNT,Alliant Energy,Utilities,Madison,Wisconsin,2024-05-17,51,51,0.08,1040100,$13.32 B
+440,TECH,Bio-Techne,Health Care,Minneapolis,Minnesota,2024-05-17,82,83,1.0,1380000,$13.21 B
+441,HST,Host Hotels & Resorts,Real Estate,Bethesda,Maryland,2024-05-17,18,18,-2.38,5608900,$13.17 B
+442,PODD,Insulet,Health Care,Acton,Massachusetts,2024-05-17,185,187,1.02,692000,$13.12 B
+443,NI,NiSource,Utilities,Merrillville,Indiana,2024-05-17,29,29,0.34,9362400,$13.10 B
+444,VTRS,Viatris,Health Care,Pittsburgh,Pennsylvania,2024-05-17,11,10,-0.36,14009600,$13.06 B
+445,KIM,Kimco Realty,Real Estate,New Hyde Park,New York,2024-05-17,19,19,0.47,3593700,$12.96 B
+446,MGM,MGM Resorts,Consumer Discretionary,Paradise,Nevada,2024-05-17,41,41,-1.28,2705100,$12.87 B
+447,INCY,Incyte,Health Care,Wilmington,Delaware,2024-05-17,56,57,0.48,1618300,$12.84 B
+448,BEN,Franklin Templeton,Financials,San Mateo,California,2024-05-17,24,24,0.5,2401500,$12.78 B
+449,EVRG,Evergy,Utilities,Kansas City,Missouri,2024-05-17,55,55,0.0,2062200,$12.67 B
+450,AOS,A. O. Smith,Industrials,Milwaukee,Wisconsin,2024-05-17,85,85,0.22,634900,$12.57 B
+451,LW,Lamb Weston,Consumer Staples,Eagle,Idaho,2024-05-17,87,86,-0.33,1205700,$12.53 B
+452,JKHY,Jack Henry & Associates,Financials,Monett,Missouri,2024-05-17,169,168,-0.39,313900,$12.32 B
+453,DVA,DaVita Inc.,Health Care,Denver,Colorado,2024-05-17,137,139,1.95,758600,$12.26 B
+454,SJM,J.M. Smucker Company (The),Consumer Staples,Orrville,Ohio,2024-05-17,116,115,-0.68,1879600,$12.23 B
+455,IPG,Interpublic Group of Companies (The),Communication Services,New York City,New York,2024-05-17,31,31,0.06,2861100,$11.99 B
+456,TAP,Molson Coors Beverage Company,Consumer Staples,Chicago,Illinois,2024-05-17,57,56,-1.93,1484700,$11.98 B
+457,LKQ,LKQ Corporation,Consumer Discretionary,Chicago,Illinois,2024-05-17,44,44,1.06,5033100,$11.92 B
+458,UHS,Universal Health Services,Health Care,King of Prussia,Pennsylvania,2024-05-17,179,177,-0.94,344200,$11.89 B
+459,EMN,Eastman Chemical Company,Materials,Kingsport,Tennessee,2024-05-17,100,100,-0.25,512500,$11.80 B
+460,APA,APA Corporation,Energy,Houston,Texas,2024-05-17,30,30,1.21,3782100,$11.46 B
+461,KMX,CarMax,Consumer Discretionary,Richmond,Virginia,2024-05-17,72,72,0.58,1725700,$11.46 B
+462,CRL,Charles River Laboratories,Health Care,Wilmington,Massachusetts,2024-05-17,225,221,-1.63,927600,$11.42 B
+463,CPT,Camden Property Trust,Real Estate,Houston,Texas,2024-05-17,107,106,-0.51,833800,$11.35 B
+464,REG,Regency Centers,Real Estate,Jacksonville,Florida,2024-05-17,60,60,0.58,1138900,$11.32 B
+465,JNPR,Juniper Networks,Information Technology,Sunnyvale,California,2024-05-17,34,34,-0.57,1681300,$11.26 B
+466,BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Columbus,Ohio,2024-05-17,49,50,1.19,1963500,$11.22 B
+467,BXP,Boston Properties,Real Estate,Boston,Massachusetts,2024-05-17,63,63,-0.96,887300,$11.14 B
+468,EPAM,EPAM Systems,Information Technology,Newtown,Pennsylvania,2024-05-17,187,187,0.02,808700,$10.89 B
+469,ALLE,Allegion,Industrials,Dublin,Ireland,2024-05-17,126,124,-1.25,507600,$10.88 B
+470,WYNN,Wynn Resorts,Consumer Discretionary,Paradise,Nevada,2024-05-17,96,96,-0.05,1071800,$10.85 B
+471,SOLV,Solventum,Health Care,Saint Paul,Minnesota,2024-05-17,61,62,0.94,1707300,$10.77 B
+472,RL,Ralph Lauren Corporation,Consumer Discretionary,New York City,New York,2024-05-17,166,167,0.75,823200,$10.73 B
+473,PAYC,Paycom,Industrials,Oklahoma City,Oklahoma,2024-05-17,181,182,0.64,420200,$10.59 B
+474,TFX,Teleflex,Health Care,Wayne,Pennsylvania,2024-05-17,219,217,-0.84,392900,$10.25 B
+475,FFIV,"F5, Inc.",Information Technology,Seattle,Washington,2024-05-17,173,174,0.2,455800,$10.21 B
+476,HII,Huntington Ingalls Industries,Industrials,Newport News,Virginia,2024-05-17,256,255,-0.54,272400,$10.08 B
+477,CTLT,Catalent,Health Care,Somerset,New Jersey,2024-05-17,55,55,0.13,1079300,$10.02 B
+478,DAY,Dayforce,Industrials,Minneapolis,Minnesota,2024-05-17,62,63,0.75,1131700,$10.69 B
+479,CHRW,CH Robinson,Industrials,Eden Prairie,Minnesota,2024-05-17,83,84,1.07,1613200,$9.85 B
+480,MOS,Mosaic Company (The),Materials,Tampa,Florida,2024-05-17,30,30,-0.94,2375000,$9.84 B
+481,TPR,"Tapestry, Inc.",Consumer Discretionary,New York City,New York,2024-05-17,42,42,-0.49,3817800,$9.72 B
+482,AAL,American Airlines Group,Industrials,Fort Worth,Texas,2024-05-17,14,14,-0.81,18402000,$9.67 B
+483,HSIC,Henry Schein,Health Care,Melville,New York,2024-05-17,74,74,0.11,799300,$9.55 B
+484,QRVO,Qorvo,Information Technology,Greensboro,North Carolina,2024-05-17,100,98,-1.71,1096300,$9.50 B
+485,AIZ,Assurant,Financials,Atlanta,Georgia,2024-05-17,176,175,-0.53,319200,$9.13 B
+486,PNW,Pinnacle West,Utilities,Phoenix,Arizona,2024-05-17,77,78,0.64,590900,$8.91 B
+487,GNRC,Generac,Industrials,Waukesha,Wisconsin,2024-05-17,143,144,0.73,691800,$8.78 B
+488,FRT,Federal Realty,Real Estate,Rockville,Maryland,2024-05-17,101,102,0.53,624900,$8.55 B
+489,BWA,BorgWarner,Consumer Discretionary,Auburn Hills,Michigan,2024-05-17,37,37,-1.49,2256000,$8.45 B
+490,PARA,Paramount Global,Communication Services,New York City,New York,2024-05-17,12,12,-4.45,15537700,$8.39 B
+491,HAS,Hasbro,Consumer Discretionary,Pawtucket,Rhode Island,2024-05-17,59,60,0.82,1412000,$8.37 B
+492,BIO,Bio-Rad,Health Care,Hercules,California,2024-05-17,296,293,-0.73,189800,$8.31 B
+493,MTCH,Match Group,Communication Services,Dallas,Texas,2024-05-17,31,31,-0.61,2876700,$8.29 B
+494,MKTX,MarketAxess,Financials,New York City,New York,2024-05-17,217,214,-1.38,279200,$8.14 B
+495,FMC,FMC Corporation,Materials,Philadelphia,Pennsylvania,2024-05-17,64,63,-0.67,1281000,$7.99 B
+496,GL,Globe Life,Financials,McKinney,Texas,2024-05-17,84,86,1.33,2300600,$7.94 B
+497,MHK,Mohawk Industries,Consumer Discretionary,Calhoun,Georgia,2024-05-17,121,120,-0.55,480300,$7.69 B
+498,CZR,Caesars Entertainment,Consumer Discretionary,Reno,Nevada,2024-05-17,35,35,0.59,3636800,$7.67 B
+499,ETSY,Etsy,Consumer Discretionary,New York City,New York,2024-05-17,64,63,-0.48,2048300,$7.48 B
+500,RHI,Robert Half,Industrials,Menlo Park,California,2024-05-17,71,70,-1.05,863600,$7.44 B
+501,CMA,Comerica,Financials,Dallas,Texas,2024-05-17,54,54,0.07,1052900,$7.27 B
+502,IVZ,Invesco,Financials,Atlanta,Georgia,2024-05-17,16,16,-0.44,3518400,$7.20 B
+503,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,Miami,Florida,2024-05-17,15,15,-1.13,12926400,$6.76 B
