@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.types import Integer, Text, Date, Float
 import os
+import altair as alt
+alt.data_transformers.enable('vegafusion')
 
 # %% [markdown]
 # Data Scraping 
@@ -188,7 +190,7 @@ print(SP500_MCS)
 
 # %%
 market_cap_mapping = {
-'DAY': '$10.69 B',}
+'DAY': '$7.81 B',}
 
 for ticker, market_cap_value in market_cap_mapping.items():                                                                 
    SP500_MCS.loc[SP500_MCS['Ticker'] == ticker, 'Market_Cap'] = market_cap_value 
@@ -399,12 +401,12 @@ Updated_Sp500_columns.info()
 
 # %%
 # Realtime Data CSV
-Tableau_path = '/Users/quantumsphere/Desktop/S&P Project/S&P Tableau Files/Tableau_Realtime.csv'
+Tableau_path = '/Users/quantumsphere/Desktop/SP500 Analyzer/S&P Tableau Files/Tableau_Realtime.csv'
 
 Updated_Sp500_columns.to_csv(Tableau_path, index=False)
 
 # Historical Data CSV
-Tableau_Historical_path = '/Users/quantumsphere/Desktop/S&P Project/S&P Tableau Files/Tableau_Historical.csv'
+Tableau_Historical_path = '/Users/quantumsphere/Desktop/SP500 Analyzer/S&P Tableau Files/Tableau_Historical.csv'
 
 SP500_Historical_Data.to_csv(Tableau_Historical_path, index=False)
 
@@ -412,7 +414,7 @@ SP500_Historical_Data.to_csv(Tableau_Historical_path, index=False)
 # Exporting DataFrame to Excel
 
 # %%
-folder_path = '/Users/quantumsphere/Desktop/S&P Project/S&P Excel Files'
+folder_path = '/Users/quantumsphere/Desktop/SP500 Analyzer/S&P Excel Files'
 file_name = 'SP500_Realtime_Excel.xlsx'
 
 # Get the full path to the Excel file
@@ -432,6 +434,42 @@ Updated_Sp500_columns.to_excel(excel_file_path, index=False, )
 SP500_Historical_Data.columns = map(str.lower, SP500_Historical_Data.columns)
 
 Updated_Sp500_columns.columns = map(str.lower, Updated_Sp500_columns.columns)
+
+# %% [markdown]
+# Python Visualizations (Line Charts)
+
+# %%
+SP500_Historical_Data['date'] = pd.to_datetime(SP500_Historical_Data['date'], errors='coerce')
+
+latest_date = SP500_Historical_Data['date'].max()
+start_date = latest_date - pd.DateOffset(years=1)
+filtered_data = SP500_Historical_Data[SP500_Historical_Data['date'] >= start_date]
+
+filtered_data.set_index('date', inplace=True)
+weekly_data = weekly_data = filtered_data.groupby([pd.Grouper(freq='W'), 'sector']).agg({
+    'difference': 'sum'
+}).reset_index()
+
+# Create the chart
+line_chart = alt.Chart(weekly_data).mark_line().encode(
+    x=alt.X('date:T', axis=alt.Axis(format='%m/%d/%Y')),
+    y='difference:Q',
+    color='sector:N',
+    tooltip=[
+        alt.Tooltip('sector:N'),
+        alt.Tooltip('difference:Q'),
+        alt.Tooltip('date:T', format='%m/%d/%Y')
+        
+        
+    ]
+).facet(
+    facet='sector:N',
+    columns=3
+).properties(
+    title='S&P 500 Sector Charts'
+)
+
+line_chart.show()
 
 # %% [markdown]
 # SQLAlchemy Engine For PostgreSQL Render Realtime Data
@@ -507,7 +545,7 @@ SP500_Historical_Data.to_sql('sp500_historical_data', engine, index=False, if_ex
 # Exporting DataFrame To SQLite With Primary Key (Realtime Data)  
 
 # %%
-project_path = '/Users/quantumsphere/Desktop/S&P Project'
+project_path = '/Users/quantumsphere/Desktop/SP500 Analyzer'
 instance_folder = 'Instance'
 SP_Database = 'SP500_Database.db'
 SP500_Database_Path = os.path.join(project_path, instance_folder, SP_Database)
